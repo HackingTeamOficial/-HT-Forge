@@ -76,13 +76,9 @@ Automatizar tareas repetitivas para que el investigador pueda concentrarse en el
 
 Transformar los resultados técnicos en informes estructurados y comprensibles.
 
-
 # 🔥 Características principales
 
 ## 🔎 Recon
-
-<img width="1280" height="720" alt="photo_3_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/063bb4c9-1ff6-4a77-9a63-aea64ccbfbda" />
-
 
 El módulo de reconocimiento permite obtener información inicial sobre el objetivo autorizado.
 
