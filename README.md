@@ -2,6 +2,13 @@
 
 <img width="1280" height="720" alt="photo_1_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/5699072d-096c-48ec-9a4b-d97275609158" />
 
+<img width="1280" height="720" alt="photo_3_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/420ff2cc-b576-4a81-96c9-008e1e214e3b" />
+
+<img width="1280" height="720" alt="photo_2_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/a6877d65-0ac9-4e23-9a34-12e9dd065650" />
+
+<img width="1280" height="720" alt="photo_4_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/f4f9cbd0-2297-4068-8333-2d924045c7c4" />
+
+<img width="1280" height="720" alt="photo_5_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/51508113-6540-493e-a920-554a8bd4f623" />
 
 ### Cybersecurity Research & Offensive Security Platform
 
@@ -58,8 +65,6 @@ Obtener una visión inicial de la superficie de ataque:
 
 Analizar la superficie descubierta buscando indicios de vulnerabilidades y configuraciones inseguras.
 
-<img width="1280" height="720" alt="photo_2_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/6f3418c3-2b6e-4b6e-b9dd-e96b1707dbcc" />
-
 
 ### Offensive Security
 
@@ -68,8 +73,6 @@ Proporcionar herramientas orientadas a pruebas de seguridad controladas, pentest
 ### Automation
 
 Automatizar tareas repetitivas para que el investigador pueda concentrarse en el análisis.
-
-<img width="1280" height="720" alt="photo_3_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/b2719007-2984-4160-af65-f4156959b3ea" />
 
 
 ### Reporting
