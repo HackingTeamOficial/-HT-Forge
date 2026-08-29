@@ -220,9 +220,6 @@ Orientado a análisis de aplicaciones basadas en sistemas de gestión de conteni
 
 Los resultados encontrados por los diferentes motores se centralizan en un sistema común de findings.
 
-<img width="1280" height="720" alt="photo_2_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/12b04e07-7e71-4fa2-8baf-544e1e8fbe63" />
-
-
 Cada hallazgo puede incluir información como:
 
 ```
