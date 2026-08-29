@@ -490,7 +490,7 @@ Orientada a pentesters y usuarios avanzados que necesitan más capacidades de an
 
 ### 🔥 Premium
 
-HT Forge Pro 99 €/año = 8,25 €/mes 
+HT Forge Pro 99 €/año = 9 €/mes 
 
 HT Forge Premium 199 €/año 
 
