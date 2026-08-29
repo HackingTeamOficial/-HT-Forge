@@ -1,14 +1,13 @@
 # ⚡ HT Forge
 
-<img width="1280" height="720" alt="photo_1_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/5699072d-096c-48ec-9a4b-d97275609158" />
-
-<img width="1280" height="720" alt="photo_3_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/420ff2cc-b576-4a81-96c9-008e1e214e3b" />
-
-<img width="1280" height="720" alt="photo_2_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/a6877d65-0ac9-4e23-9a34-12e9dd065650" />
-
-<img width="1280" height="720" alt="photo_4_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/f4f9cbd0-2297-4068-8333-2d924045c7c4" />
-
-<img width="1280" height="720" alt="photo_5_2026-08-29_10-45-22" src="https://github.com/user-attachments/assets/51508113-6540-493e-a920-554a8bd4f623" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_38" src="https://github.com/user-attachments/assets/ec898cb5-e07e-4a93-b424-91fee1f229fc" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_32" src="https://github.com/user-attachments/assets/204ec7e1-3ad9-4987-bd31-9362c13a1e3e" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_25" src="https://github.com/user-attachments/assets/2857fd17-25e2-4ebf-9e14-d93b2229d61e" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_18" src="https://github.com/user-attachments/assets/f3275e4a-f8cd-4ec9-b449-65d1f5ad8876" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_12" src="https://github.com/user-attachments/assets/bf42690c-9c4f-4058-86aa-591bf8211fa8" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_04" src="https://github.com/user-attachments/assets/86870b13-55b2-495f-9ba0-c31cde3685e2" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_01_57" src="https://github.com/user-attachments/assets/8af05318-d7e2-4397-9562-3c5fd81e14e5" />
+<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_01_48" src="https://github.com/user-attachments/assets/596eb167-c3a3-4e0e-8b18-2634de005804" />
 
 ### Cybersecurity Research & Offensive Security Platform
 
