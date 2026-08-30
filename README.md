@@ -38,6 +38,28 @@ La plataforma combina diferentes módulos y motores dentro de un mismo entorno:
 * 🌍 Arquitectura preparada para múltiples plataformas
 
 
+#Nueva actualizacion en la 1.7 
+
+He añadido los 6 módulos nuevos:
+
+websocket_smuggling
+websocket_hijack
+cache_key_injection
+http_smuggling_h2c
+jwt_key_confusion
+jwt_alg_none
+
+Además:
+
+✅ Integrados en core/profiles.py
+✅ Incluidos en la documentación de módulos
+✅ 108 plugins cargados
+✅ Los 6 nuevos aparecen correctamente en el registro
+✅ Compilación Python correcta
+🔒 Los módulos existentes se han dejado intactos
+🧪 Los nuevos son conservadores y marcan candidatos para revisión humana, no falsas confirmaciones
+
+
 # 🎯 Filosofía de HT Forge
 
 HT Forge está pensado para personas que trabajan con seguridad ofensiva de forma técnica y responsable.
