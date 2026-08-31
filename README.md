@@ -421,8 +421,13 @@ aprobada, incorporando las mejoras de forma controlada.
 Cada actualización debe mantenerse sincronizada entre:
 
 DEMO con limitaciones de analisis
-PRO 99 $ al año 9 $ mensuales    Informacion Por Telegram: @hackingteamprohackers
-PREMIUM 199 al año pago unico    Informacion Por Telegram: @hackingteamprohackers
+
+PRO 99 $ al año 9 $ mensuales
+
+Informacion Por Telegram: @hackingteamprohackers
+PREMIUM 199 al año pago unico
+
+Informacion Por Telegram: @hackingteamprohackers
 
 🏴 Identidad del proyecto
 
