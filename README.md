@@ -1,5 +1,15 @@
 ⚡ HT Forge 1.8.15
 
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_00_59_46" src="https://github.com/user-attachments/assets/52edc25b-cc9c-481e-967c-957de00a6969" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_00_59_55" src="https://github.com/user-attachments/assets/18e81261-8371-4728-8dd7-60eda0c960f2" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_02" src="https://github.com/user-attachments/assets/840e7be0-35ff-4d87-aa88-6bd0ef70e807" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_57" src="https://github.com/user-attachments/assets/483520b0-d685-43c8-844f-07a7a1b6882d" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_35" src="https://github.com/user-attachments/assets/aa6f7555-6adc-42f9-87e5-8604c75f78fb" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_43" src="https://github.com/user-attachments/assets/7f1b6b20-a9c8-4da8-a850-ba4522390622" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_14" src="https://github.com/user-attachments/assets/062d85b5-a435-4df0-aa0c-e677255ff21b" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_20" src="https://github.com/user-attachments/assets/7b9f8019-ee2b-451a-9947-05d5bc1e7481" />
+
+
 🛡️ Plataforma de investigación y evaluación de seguridad
 
 HT Forge es una plataforma modular orientada a investigación de
