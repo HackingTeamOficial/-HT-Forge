@@ -6,8 +6,6 @@
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_00_16_33" src="https://github.com/user-attachments/assets/e5b4b285-b19a-4a91-b9aa-9719758c78ef" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_57" src="https://github.com/user-attachments/assets/483520b0-d685-43c8-844f-07a7a1b6882d" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_35" src="https://github.com/user-attachments/assets/aa6f7555-6adc-42f9-87e5-8604c75f78fb" />
-<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_43" src="https://github.com/user-attachments/assets/7f1b6b20-a9c8-4da8-a850-ba4522390622" />
-<img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_14" src="https://github.com/user-attachments/assets/062d85b5-a435-4df0-aa0c-e677255ff21b" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_20" src="https://github.com/user-attachments/assets/7b9f8019-ee2b-451a-9947-05d5bc1e7481" />
 
 
