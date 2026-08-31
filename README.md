@@ -1,615 +1,458 @@
-# ⚡ HT Forge 
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_01_48" src="https://github.com/user-attachments/assets/596eb167-c3a3-4e0e-8b18-2634de005804" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_01_57" src="https://github.com/user-attachments/assets/8af05318-d7e2-4397-9562-3c5fd81e14e5" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_04" src="https://github.com/user-attachments/assets/86870b13-55b2-495f-9ba0-c31cde3685e2" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_18" src="https://github.com/user-attachments/assets/f3275e4a-f8cd-4ec9-b449-65d1f5ad8876" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_12" src="https://github.com/user-attachments/assets/bf42690c-9c4f-4058-86aa-591bf8211fa8" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_25" src="https://github.com/user-attachments/assets/2857fd17-25e2-4ebf-9e14-d93b2229d61e" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_32" src="https://github.com/user-attachments/assets/204ec7e1-3ad9-4987-bd31-9362c13a1e3e" />
-<img width="1920" height="1080" alt="Screenshot_2026-08-30_01_02_38" src="https://github.com/user-attachments/assets/ec898cb5-e07e-4a93-b424-91fee1f229fc" />
-
-### Cybersecurity Research & Offensive Security Platform
-
-**HT Forge** es una plataforma modular de ciberseguridad diseñada para **pentesters, investigadores de seguridad, Red Team, Bug Bounty Hunters y expertos en seguridad ofensiva**.
-
-Su objetivo es proporcionar un entorno centralizado para realizar tareas de **reconocimiento, análisis, crawling, detección de vulnerabilidades, evaluación de objetivos y generación de informes**, evitando tener que utilizar múltiples herramientas independientes para cada fase de una auditoría.
-
-> **HT Forge — Research. Recon. Analyze. Secure.**
-
-## 🛡️ ¿Qué es HT Forge?
-
-HT Forge nace como una plataforma enfocada en investigadores y comunidades técnicas que necesitan una herramienta flexible para realizar evaluaciones de seguridad.
-
-La plataforma combina diferentes módulos y motores dentro de un mismo entorno:
-
-* 🔎 Reconocimiento
-* 🌐 Descubrimiento de URLs y endpoints
-* 🕷️ Crawling
-* 🎯 Análisis de parámetros
-* 💉 Detección de SQL Injection
-* 🧪 Detección de XSS
-* 🔐 Análisis de seguridad web
-* ⚙️ Motores de análisis modulares
-* 📊 Scoring de vulnerabilidades
-* 📄 Generación de informes
-* 🖥️ Interfaz gráfica
-* ⌨️ Interfaz CLI
-* 🌙 Modo Claro / Oscuro
-* 🌍 Arquitectura preparada para múltiples plataformas
+⚡ HT Forge 1.8.15
 
 
-#Nueva actualizacion en la 1.7 
 
-He añadido los 6 módulos nuevos:
+🛡️ Plataforma de investigación y evaluación de seguridad
 
-websocket_smuggling
-websocket_hijack
-cache_key_injection
-http_smuggling_h2c
-jwt_key_confusion
-jwt_alg_none
+HT Forge es una plataforma modular orientada a investigación de
+ciberseguridad, auditoría web, pentesting autorizado y evaluación de
+superficies de ataque.
 
-Además:
+Versión actual: HT Forge 1.8.15
 
-✅ Integrados en core/profiles.py
-✅ Incluidos en la documentación de módulos
-✅ 108 plugins cargados
-✅ Los 6 nuevos aparecen correctamente en el registro
-✅ Compilación Python correcta
-🔒 Los módulos existentes se han dejado intactos
-🧪 Los nuevos son conservadores y marcan candidatos para revisión humana, no falsas confirmaciones
+⚠️ Importante: HT Forge debe utilizarse únicamente sobre sistemas
+propios, laboratorios, CTF o activos para los que exista autorización
+expresa.
 
+🔥 ¿Qué es HT Forge?
 
-# 🎯 Filosofía de HT Forge
+HT Forge reúne en una única herramienta capacidades de:
 
-HT Forge está pensado para personas que trabajan con seguridad ofensiva de forma técnica y responsable.
+🔎 Reconocimiento y fingerprinting
 
-La filosofía del proyecto se basa en:
+🕷️ Crawler y descubrimiento de URLs
 
-### Research
+🎯 Análisis de parámetros y superficie de ataque
 
-Facilitar la investigación y recopilación de información sobre objetivos autorizados.
+🛡️ Detección de vulnerabilidades web
 
-### Recon
+🔌 Análisis de APIs y diferentes superficies técnicas
 
-Obtener una visión inicial de la superficie de ataque:
+📋 Evidencia y clasificación de hallazgos
 
-* Dominios
-* URLs
-* Endpoints
-* Parámetros
-* Tecnologías
-* Recursos web
+📊 Generación de informes
 
-### Analysis
+🗂️ Historial de escaneos
 
-Analizar la superficie descubierta buscando indicios de vulnerabilidades y configuraciones inseguras.
+🧩 Automatización mediante módulos
 
+⚙️ Interfaz gráfica y controles de ejecución
 
-### Offensive Security
+El objetivo es proporcionar un entorno único para investigar, analizar
+y documentar problemas de seguridad, evitando tener que trabajar con
+múltiples herramientas independientes para cada fase.
 
-Proporcionar herramientas orientadas a pruebas de seguridad controladas, pentesting y validación de vulnerabilidades.
+👥 ¿Para quién está orientado?
 
-### Automation
+HT Forge está pensado principalmente para:
 
-Automatizar tareas repetitivas para que el investigador pueda concentrarse en el análisis.
+🧑‍💻 Profesionales de ciberseguridad
 
+🔴 Pentesters y equipos Red Team
 
-### Reporting
+🔵 Blue Team y equipos de evaluación defensiva
 
-Transformar los resultados técnicos en informes estructurados y comprensibles.
+🕵️ Investigadores de seguridad
 
-# 🔥 Características principales
+🌐 Auditores de aplicaciones web y APIs
 
-## 🔎 Recon
+🏆 Programas de bug bounty, respetando siempre su alcance
 
-El módulo de reconocimiento permite obtener información inicial sobre el objetivo autorizado.
+🎓 Estudiantes y personas que estén aprendiendo seguridad en
+laboratorios
 
-Entre otras funciones:
+🧪 Entornos CTF y plataformas de práctica autorizadas
 
-* Descubrimiento de recursos
-* Enumeración de URLs
-* Identificación de endpoints
-* Extracción de parámetros
-* Fingerprinting tecnológico
-* Análisis de superficie web
+No pretende sustituir el criterio de un profesional: los resultados
+automáticos deben revisarse y validarse antes de considerarlos
+vulnerabilidades confirmadas.
 
+🧠 Filosofía de HT Forge
 
-## 🕷️ Crawler
+🔎 Investigación
 
-El crawler permite recorrer aplicaciones web y construir una representación de su superficie accesible.
+Centralizar reconocimiento, descubrimiento y análisis.
 
-Puede trabajar con:
+🛡️ Detección
 
-* Enlaces
-* Formularios
-* Parámetros
-* Recursos
-* Endpoints
-* Rutas descubiertas
+Identificar posibles vulnerabilidades y configuraciones inseguras.
 
-La información obtenida puede ser utilizada posteriormente por otros motores de análisis.
+📋 Evidencia
 
+Dar prioridad a resultados reproducibles y diferenciarlos de simples
+indicios.
 
-## 💉 SQL Injection Detection
+🧩 Modularidad
 
-HT Forge incorpora un motor dedicado a la identificación de posibles vulnerabilidades **SQL Injection**.
+Permitir ampliar la plataforma mediante módulos y motores
+independientes.
 
-El sistema puede analizar diferentes puntos de entrada y comparar respuestas para buscar comportamientos anómalos.
+📊 Reporting
 
-El objetivo es proporcionar al investigador:
+Convertir los resultados técnicos en información útil para revisión y
+documentación.
 
-* Punto vulnerable
-* Parámetro afectado
-* Tipo de indicio detectado
-* Evidencias
-* Respuesta obtenida
-* Nivel de riesgo
-* Información necesaria para validación manual
+🚀 Funciones principales
 
-> Los resultados automáticos deben ser revisados manualmente antes de considerarlos vulnerabilidades confirmadas.
+🔎 Reconocimiento
 
+Incluye capacidades para descubrir información útil sobre el objetivo
+autorizado:
 
-## 🧪 XSS Detection
+Fingerprinting tecnológico
 
-El motor XSS analiza puntos de entrada susceptibles de permitir la introducción de contenido controlado por el usuario.
+Descubrimiento de URLs
 
-El sistema puede analizar:
+Análisis de parámetros
 
-* Parámetros GET
-* Parámetros POST
-* Formularios
-* Endpoints
-* Respuestas reflejadas
+Identificación de superficies conocidas
 
-Los resultados se incorporan posteriormente al sistema de findings y reporting.
+Reconocimiento pasivo
 
+🕷️ Crawler
 
-# 🧠 Arquitectura modular
+El crawler permite construir una visión de la aplicación a partir de las
+rutas y recursos encontrados.
 
-Una de las características fundamentales de HT Forge es su arquitectura modular.
+Los resultados se incorporan al contexto del escaneo para que los
+módulos puedan trabajar sobre una superficie más amplia.
 
-La plataforma está diseñada para separar:
+🛡️ Análisis de vulnerabilidades
 
-```
+HT Forge dispone de módulos orientados a distintas categorías de
+seguridad web y de aplicaciones.
+
+Entre las superficies contempladas por la plataforma se encuentran,
+según edición y configuración:
+
+SQL Injection
+
+Cross-Site Scripting (XSS)
+
+IDOR/BOLA
+
+LFI
+
+Path Traversal
+
+RCE / Command Injection
+
+SSRF
+
+XML/XXE
+
+Open Redirect
+
+CRLF
+
+APIs
+
+GraphQL
+
+Control de acceso
+
+Autenticación y sesiones
+
+Exposición de información
+
+Configuración y servicios
+
+Cloud
+
+Contenedores
+
+Dependencias y componentes
+
+CMS
+
+Otras comprobaciones especializadas
+
+La disponibilidad y profundidad de los módulos depende de la edición.
+
+🎯 Hallazgos
+
+Los hallazgos se presentan de forma estructurada para facilitar la
+revisión.
+
+Cada resultado puede incluir:
+
+Tipo de vulnerabilidad
+
+URL afectada
+
+Parámetro afectado
+
+Severidad
+
+Evidencia
+
+Confianza
+
+Módulo que generó el resultado
+
+Información adicional para revisión humana
+
+HT Forge diferencia entre posibles hallazgos y resultados que
+disponen de evidencia suficiente para aumentar la confianza.
+
+🖥️ Dashboard
+
+La interfaz gráfica de HT Forge está diseñada para mantener la
+información importante visible durante el escaneo.
+
+Incluye:
+
+Estado del escaneo
+
+Información del objetivo
+
+Resumen de hallazgos
+
+Panel de módulos
+
+Log de ejecución
+
+⏱️ Contador de tiempo en tiempo real
+
+Controles de ejecución
+
+🗂️ Historial
+
+📊 Visualización de reportes
+
+🌗 Modo Claro y Oscuro
+
+🎨 Diseño Cyber Grid
+
+🔊 Sistema de voz
+
+HT Forge incorpora avisos de voz para determinados eventos del escaneo.
+
+Actualmente contempla:
+
+👨 Voz masculina
+
+👩 Voz femenina
+
+🔄 Selección automática
+
+🌐 Soporte para los idiomas disponibles
+
+La voz puede anunciar el comienzo y finalización del escaneo y
+determinados estados relevantes.
+
+📊 Reportes
+
+Al finalizar un escaneo, HT Forge puede generar información para
+diferentes formatos:
+
+🌐 HTML
+
+📄 PDF
+
+🗃️ JSON
+
+🎨 SVG
+
+🌌 Cyber Grid
+
+El estilo gráfico principal del reporte SVG de HT Forge es Cyber
+Grid.
+
+Está orientado a presentar los resultados de forma visual, incluyendo
+elementos como:
+
+Risk Score
+
+Severidades
+
+Superficie analizada
+
+Distribución de hallazgos
+
+Top Findings
+
+Información del escaneo
+
+Evidencias y datos técnicos relevantes
+
+🗂️ Historial
+
+HT Forge mantiene un historial de los escaneos realizados para facilitar
+la consulta de ejecuciones anteriores.
+
+La interfaz permite gestionar el historial desde el propio Dashboard.
+
+🆓 Edición DEMO
+
+Edición destinada a probar la plataforma.
+
+Incluye la interfaz y flujo principal de HT Forge, pero con límites de
+cobertura para diferenciarla de las ediciones comerciales.
+
+Límites principales
+
+4 comprobaciones SQLi
+
+4 comprobaciones XSS
+
+Selección limitada de módulos
+
+La edición DEMO incluye un aviso de actualización a Premium dentro de la
+interfaz.
+
+💼 Edición PRO
+
+Edición orientada a usuarios que necesitan una cobertura superior.
+
+Características principales
+
+8 comprobaciones SQLi
+
+8 comprobaciones XSS
+
+Mayor número de módulos
+
+Mayor cobertura de análisis
+
+Funciones profesionales de reporting y revisión
+
+La interfaz mantiene la misma identidad visual que DEMO y PREMIUM.
+
+👑 Edición PREMIUM
+
+Edición completa de HT Forge.
+
+Características principales
+
+Cobertura completa de los módulos disponibles
+
+Mayor profundidad de análisis
+
+Todas las capacidades de la plataforma incluidas
+
+Reporting completo
+
+Sin el aviso de «Sube a Premium»
+
+En la interfaz, la edición se identifica simplemente como:
+
+PREMIUM
+
+🧩 Arquitectura
+
+HT Forge utiliza una arquitectura modular basada en componentes
+independientes.
+
+Conceptualmente:
+
 HT Forge
-│
-├── Core
-│   ├── Engine
-│   ├── Context
-│   ├── HTTP
-│   ├── EventBus
-│   ├── Database
-│   ├── Scoring
-│   └── Vulnerability DB
-│
-├── Engines
-│   ├── Recon
-│   ├── Scanner
-│   ├── Analysis
-│   └── Red Team
-│
-├── Plugins
-│
-├── Profiles
-│   ├── Recon
-│   ├── Full
-│   ├── Bug Bounty
-│   ├── API
-│   └── CMS
-│
 ├── GUI
-│
-├── CLI
-│
-└── Reports
-    ├── PDF
-    ├── HTML
-    └── JSON
-```
+├── Core
+├── Engines
+├── Plugins / Modules
+├── Reporting
+├── Runtime
+└── Configuration
 
-Esta arquitectura permite ampliar HT Forge sin tener que reconstruir toda la plataforma.
+Esta separación permite evolucionar módulos concretos sin tener que
+sustituir todo el núcleo de la plataforma.
 
+🌍 Multiplataforma
 
-# ⚙️ Profiles
+HT Forge está orientado a funcionar en entornos habituales de
+investigación de seguridad:
 
-HT Forge puede utilizar diferentes perfiles dependiendo del objetivo de la investigación.
+🐧 Linux
 
-### 🔎 Recon
+🐉 Kali Linux
 
-Para obtener información inicial del objetivo.
+🦜 Parrot OS
 
-### 🛡️ Full
+🪟 Windows
 
-Perfil de análisis más completo utilizando los módulos disponibles.
+La compatibilidad concreta puede depender de las dependencias y
+herramientas disponibles en cada sistema.
 
-### 🐞 Bug Bounty
+🌐 Idiomas
 
-Orientado a metodologías de investigación de vulnerabilidades dentro del alcance permitido por un programa Bug Bounty.
+La interfaz está preparada para trabajar con varios idiomas:
 
-### 🔌 API
+🇪🇸 Español
 
-Orientado a aplicaciones y APIs.
+🇬🇧 English
 
-### 🗂️ CMS
+🇩🇪 Deutsch
 
-Orientado a análisis de aplicaciones basadas en sistemas de gestión de contenidos.
+🇷🇺 Русский
 
+⚠️ Uso responsable
 
-# 📊 Findings
+HT Forge es una herramienta de seguridad. El usuario es responsable de
+utilizarla dentro de los límites legales y de autorización
+correspondientes.
 
-Los resultados encontrados por los diferentes motores se centralizan en un sistema común de findings.
+Utilízala sobre:
 
-Cada hallazgo puede incluir información como:
+Sistemas propios
 
-```
-Vulnerability
-├── Title
-├── Severity
-├── Target
-├── URL
-├── Parameter
-├── Evidence
-├── Payload/Test
-├── Description
-├── Impact
-├── Recommendation
-└── References
-```
+Laboratorios
 
-Esto permite que los resultados de diferentes módulos puedan terminar utilizando el mismo sistema de reporting.
+CTF
 
+Entornos de desarrollo autorizados
 
-# 📈 Risk Scoring
+Programas de bug bounty respetando estrictamente su alcance
 
-HT Forge incorpora un sistema de evaluación de riesgo destinado a ayudar al investigador a priorizar los resultados.
+Infraestructura para la que tengas autorización expresa
 
-Los findings pueden clasificarse, por ejemplo, como:
+No utilices la herramienta para acceder, alterar o probar sistemas de
+terceros sin autorización.
 
-```
-CRITICAL
-HIGH
-MEDIUM
-LOW
-INFO
-```
+📌 Estado del proyecto
 
-El scoring no sustituye el análisis profesional. Su objetivo es ayudar a organizar y priorizar los resultados obtenidos durante una auditoría.
+Versión actual: HT Forge 1.8.15
 
+La numeración de versiones se mantiene de forma secuencial.
 
-# 📄 Professional Reporting
+Las futuras actualizaciones deberán conservar la base funcional y visual
+aprobada, incorporando las mejoras de forma controlada.
 
-Uno de los objetivos de HT Forge es convertir los resultados técnicos de una investigación en informes profesionales.
+Cada actualización debe mantenerse sincronizada entre:
 
-Los resultados pueden estructurarse para generar:
+DEMO con limitaciones de analisis
+PRO 99 $ al año 9 $ mensuales    Informacion Por Telegram: @hackingteamprohackers
+PREMIUM 199 al año pago unico    Informacion Por Telegram: @hackingteamprohackers
 
-* PDF
-* HTML
-* JSON
+🏴 Identidad del proyecto
 
-Los informes pueden contener:
+⚡ HT Forge CyberSecurity
 
-* Información del objetivo
-* Resumen ejecutivo
-* Resumen de vulnerabilidades
-* Severidad
-* Evidencias
-* URLs afectadas
-* Parámetros
-* Descripción técnica
-* Impacto
-* Recomendaciones
-* Información del análisis
+Research · Recon · Audit · Pentest · Analysis · Reporting
 
-Esto permite utilizar HT Forge tanto durante la investigación como en la fase final de documentación.
+🧠 Flujo de HT Forge
 
+🔎 Reconocimiento
+        ↓
+🕷️ Descubrimiento
+        ↓
+🎯 Análisis
+        ↓
+🛡️ Detección
+        ↓
+👤 Validación humana
+        ↓
+📋 Hallazgos
+        ↓
+📊 Reporting
 
-# 🖥️ GUI
+La finalidad es proporcionar una herramienta organizada, modular y
+profesional para aprender, investigar, auditar y documentar seguridad.
 
-HT Forge dispone de una interfaz gráfica orientada a mantener toda la información del análisis en un único entorno.
+⚡ HT Forge 1.8.15
 
-La interfaz está diseñada para mostrar:
+🛡️ CyberSecurity Research & Assessment Platform
 
-* Información del escaneo
-* Resumen de findings
-* Módulos
-* URLs descubiertas
-* Log de ejecución
-* Resultados
-* Controles del análisis
-
-También incorpora:
-
-### 🌙 Dark Mode
-
-Para entornos de trabajo nocturnos y laboratorios.
-
-### ☀️ Light Mode
-
-Para documentación y entornos con mayor iluminación.
-
-
-# ⌨️ CLI
-
-Además de la interfaz gráfica, HT Forge está pensado para poder utilizarse desde terminal.
-
-Esto facilita su integración en:
-
-* Laboratorios
-* Scripts
-* Automatizaciones
-* Máquinas Kali Linux
-* Máquinas Parrot
-* Entornos Linux
-* Flujos de pentesting
-
-
-# 🐧 Plataformas
-
-La arquitectura está orientada principalmente a entornos de investigación y seguridad.
-
-Plataformas objetivo:
-
-* 🐧 Linux
-* 🐉 Kali Linux
-* 🦜 Parrot OS
-* 🪟 Windows
-
-La compatibilidad concreta puede depender de las dependencias utilizadas por cada módulo.
-
-
-# 🧩 Extensibilidad
-
-HT Forge está diseñado pensando en una arquitectura extensible.
-
-La idea es que nuevos motores puedan incorporarse sin modificar el núcleo principal.
-
-Ejemplo:
-
-```
-Nuevo módulo
-      ↓
-Plugin / Engine
-      ↓
-HT Forge Core
-      ↓
-Findings
-      ↓
-Scoring
-      ↓
-Reports
-```
-
-Esto permite que la comunidad pueda ampliar las capacidades de la plataforma.
-
-
-# 👨‍💻 ¿Para quién está pensado?
-
-HT Forge está especialmente orientado a:
-
-* Pentesters
-* Ethical Hackers
-* Red Team
-* Blue Team
-* Security Researchers
-* Bug Bounty Hunters
-* Auditores de seguridad
-* Administradores de seguridad
-* Estudiantes de ciberseguridad
-* Laboratorios de seguridad
-* Comunidades de hacking
-
-
-# 🧪 Entornos recomendados
-
-HT Forge puede utilizarse en entornos controlados como:
-
-* Laboratorios propios
-* CTF
-* Máquinas virtuales
-* Aplicaciones vulnerables de laboratorio
-* Entornos de desarrollo
-* Sistemas autorizados para pentesting
-* Programas Bug Bounty dentro de su alcance
-
-Para practicar, se recomienda utilizar objetivos diseñados específicamente para pruebas de seguridad.
-
-
-# ⚠️ Uso responsable
-
-HT Forge es una herramienta de **investigación y auditoría de seguridad**.
-
-El usuario es responsable de disponer de autorización antes de realizar pruebas contra sistemas, aplicaciones, APIs, dominios o infraestructuras de terceros.
-
-No utilices HT Forge para acceder, modificar, degradar o atacar sistemas sin autorización.
-
-### Regla básica:
-
-> **Si no tienes permiso para probarlo, no lo escanees.**
-
-El proyecto está orientado al aprendizaje, investigación, auditoría autorizada y mejora de la seguridad.
-
-
-# 🚀 Flujo de trabajo recomendado
-
-Un flujo habitual con HT Forge puede ser:
-
-```
-                    TARGET AUTORIZADO
-                           │
-                           ▼
-                       RECON
-                           │
-                           ▼
-                     DISCOVERY
-                           │
-                           ▼
-                       CRAWLER
-                           │
-                           ▼
-                   URLS / ENDPOINTS
-                           │
-                           ▼
-                      ANALYSIS
-                    ┌──────┴──────┐
-                    ▼             ▼
-                   XSS           SQLi
-                    │             │
-                    └──────┬──────┘
-                           ▼
-                       FINDINGS
-                           │
-                           ▼
-                        SCORING
-                           │
-                           ▼
-                        REPORT
-                     PDF / HTML / JSON
-```
-
-
-# 🏴 HT Forge Community
-
-HT Forge está pensado también como una plataforma alrededor de la cual puedan crecer comunidades técnicas.
-
-La comunidad puede utilizar el proyecto para:
-
-* Compartir conocimiento
-* Crear módulos
-* Investigar vulnerabilidades
-* Desarrollar plugins
-* Crear perfiles
-* Realizar laboratorios
-* Compartir metodologías
-* Mejorar detecciones
-* Analizar resultados
-
-El objetivo es construir una herramienta que evolucione junto a sus usuarios.
-
-
-# 💎 Ediciones
-
-La plataforma puede evolucionar hacia diferentes ediciones dependiendo de las necesidades del usuario.
-
-### 🆓 Free
-
-Para aprendizaje, investigación y pruebas básicas.
-
-Incluye funcionalidades fundamentales de:
-
-* Recon
-* Scanner
-* Crawler
-* Detecciones principales
-* Findings
-* Informes básicos
-
-### ⚡ Pro
-
-Orientada a pentesters y usuarios avanzados que necesitan más capacidades de análisis y automatización.
-
-### 🔥 Premium
-
-HT Forge Pro 99 €/año = 9 €/mes 
-
-HT Forge Premium 199 €/año 
-
-+Informacion @HackingTeamProHackers
-
-Orientada a profesionales, equipos y usuarios que necesitan el conjunto más completo de capacidades de HT Forge.
-
-Las características concretas de cada edición pueden evolucionar con el proyecto.
-
-
-# 🛠️ Proyecto en evolución
-
-HT Forge es un proyecto en desarrollo continuo.
-
-La prioridad del proyecto es mejorar progresivamente:
-
-* Precisión de detecciones
-* Cobertura de vulnerabilidades
-* Rendimiento
-* Reconocimiento
-* Crawling
-* Reporting
-* Experiencia de usuario
-* Compatibilidad multiplataforma
-* Arquitectura de plugins
-* Automatización
-
-Las nuevas versiones seguirán una evolución incremental.
-
-
-# 📌 Roadmap
-
-### Core
-
-* [x] Arquitectura modular
-* [x] Engine system
-* [x] Findings
-* [x] Profiles
-* [x] Scoring
-* [x] Reporting
-
-### Web Security
-
-* [x] Recon
-* [x] Crawler
-* [x] XSS analysis
-* [x] SQLi analysis
-* [ ] Mayor cobertura de vulnerabilidades
-* [ ] Mejor reducción de falsos positivos
-* [ ] Nuevos motores de análisis
-
-### Platform
-
-* [x] GUI
-* [x] CLI
-* [x] Dark / Light mode
-* [ ] Mejoras multiplataforma
-* [ ] Sistema avanzado de plugins
-
-### Reporting
-
-* [x] JSON
-* [x] HTML
-* [x] PDF
-* [ ] Templates avanzados
-* [ ] Informes personalizados
-* [ ] Mejoras de evidencias
-
-
-# 🔥 HT Forge
-
-**No queremos crear otro scanner.**
-
-Queremos construir una **plataforma de seguridad** donde reconocimiento, análisis, investigación, automatización y reporting puedan trabajar juntos.
-
-RECON
-   +
-DISCOVERY
-   +
-ANALYSIS
-   +
-AUTOMATION
-   +
-INTELLIGENCE
-   +
-REPORTING
-   =
-HT FORGE
-
-## 🏴 Hacking Team
-
-**HT Forge CyberSecurity**
-
-Developed for cybersecurity researchers, pentesters and security communities.
-
-**Research • Offensive Security • Automation • Defense**
-
-> **Forge your tools. Forge your research. Forge your security.**
->
 > 💻🔥 Somos una comunidad de hacking y ciberseguridad donde aprender es parte del juego 🔥💻
 
 🧑‍💻 Aquí encontrarás gente que está empezando y otros que ya están en nivel avanzado, todos compartiendo herramientas, trucos, metodologías y experiencias reales.
@@ -627,4 +470,6 @@ https://www.hackingteamoficcial.uk/
 
 💻 GitHub:
 https://github.com/HackingTeamOficial
+
+Informacion Por Telegram: @hackingteamprohackers
 
