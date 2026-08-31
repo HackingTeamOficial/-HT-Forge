@@ -424,7 +424,6 @@ DEMO con limitaciones de analisis
 
 PRO 99 $ al año 9 $ mensuales
 
-Informacion Por Telegram: @hackingteamprohackers
 PREMIUM 199 al año pago unico
 
 Informacion Por Telegram: @hackingteamprohackers
