@@ -1,11 +1,17 @@
-⚡ HT Forge 1.8.15
+⚡ HT Forge 2.0.0    Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_00_59_46" src="https://github.com/user-attachments/assets/52edc25b-cc9c-481e-967c-957de00a6969" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_00_59_55" src="https://github.com/user-attachments/assets/18e81261-8371-4728-8dd7-60eda0c960f2" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_02" src="https://github.com/user-attachments/assets/840e7be0-35ff-4d87-aa88-6bd0ef70e807" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_00_16_33" src="https://github.com/user-attachments/assets/e5b4b285-b19a-4a91-b9aa-9719758c78ef" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_57" src="https://github.com/user-attachments/assets/483520b0-d685-43c8-844f-07a7a1b6882d" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_35" src="https://github.com/user-attachments/assets/aa6f7555-6adc-42f9-87e5-8604c75f78fb" />
+ Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_20" src="https://github.com/user-attachments/assets/7b9f8019-ee2b-451a-9947-05d5bc1e7481" />
 
 
@@ -15,7 +21,7 @@ HT Forge es una plataforma modular orientada a investigación de
 ciberseguridad, auditoría web, pentesting autorizado y evaluación de
 superficies de ataque.
 
-Versión actual: HT Forge 1.8.15
+Versión actual: HT Forge 2.0.0
 
 ⚠️ Importante: HT Forge debe utilizarse únicamente sobre sistemas
 propios, laboratorios, CTF o activos para los que exista autorización
@@ -460,7 +466,7 @@ Research · Recon · Audit · Pentest · Analysis · Reporting
 La finalidad es proporcionar una herramienta organizada, modular y
 profesional para aprender, investigar, auditar y documentar seguridad.
 
-⚡ HT Forge 1.8.15
+⚡ HT Forge 2.0.0
 
 🛡️ CyberSecurity Research & Assessment Platform
 
@@ -482,5 +488,5 @@ https://www.hackingteamoficcial.uk/
 💻 GitHub:
 https://github.com/HackingTeamOficial
 
-Informacion Por Telegram: @hackingteamprohackers
+Informacion Por Telegram: @hackingteamprohackers Pide Tu Key Demo Por Telegram 
 
