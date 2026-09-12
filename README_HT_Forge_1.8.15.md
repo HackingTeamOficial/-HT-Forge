@@ -6,7 +6,7 @@
 ciberseguridad, auditoría web, pentesting autorizado y evaluación de
 superficies de ataque.
 
-**Versión actual: HT Forge 1.8.15**
+**Versión actual: HT Forge 2.0.0**
 
 > ⚠️ **Importante:** HT Forge debe utilizarse únicamente sobre sistemas
 > propios, laboratorios, CTF o activos para los que exista autorización
@@ -363,6 +363,6 @@ PREMIUM
 La finalidad es proporcionar una herramienta organizada, modular y
 profesional para aprender, investigar, auditar y documentar seguridad.
 
-# ⚡ HT Forge 1.8.15
+# ⚡ HT Forge 2.0.0
 
 ### 🛡️ CyberSecurity Research & Assessment Platform
