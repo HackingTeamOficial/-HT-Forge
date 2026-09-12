@@ -1,4 +1,4 @@
-# ⚡ HT Forge 1.8.15
+# ⚡ HT Forge 2.0.0
 
 ## 🛡️ Plataforma de investigación y evaluación de seguridad
 
