@@ -1,4 +1,4 @@
-⚡ HT Forge 2.0.0 
+⚡ HT Forge 2.1.0 
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_00_59_46" src="https://github.com/user-attachments/assets/52edc25b-cc9c-481e-967c-957de00a6969" />
 
@@ -15,13 +15,13 @@
 <img width="1920" height="1080" alt="Screenshot_2026-09-01_01_00_20" src="https://github.com/user-attachments/assets/7b9f8019-ee2b-451a-9947-05d5bc1e7481" />
 
 
-⚡ HT Forge 2.0.0
+⚡ HT Forge 2.1.0
 
 🛡️ Plataforma de investigación y evaluación de seguridad
 
 HT Forge es una plataforma modular orientada a investigación de ciberseguridad, auditoría web, pentesting autorizado y evaluación de superficies de ataque.
 
-Versión actual: HT Forge 2.0.0
+Versión actual: HT Forge 2.1.0
 
     ⚠️ Importante: HT Forge debe utilizarse únicamente sobre sistemas propios, laboratorios, CTF o activos para los que exista autorización expresa.
 
@@ -279,7 +279,7 @@ Utilízala sobre:
 No utilices la herramienta para acceder, alterar o probar sistemas de terceros sin autorización.
 📌 Estado del proyecto
 
-Versión actual: HT Forge 1.8.15
+Versión actual: HT Forge 2.1.0
 
 La numeración de versiones se mantiene de forma secuencial.
 
@@ -311,6 +311,42 @@ Research · Recon · Audit · Pentest · Analysis · Reporting
         ↓
 📊 Reporting
 
-La finalidad es proporcionar una herramienta organizada, modular y profesional para aprender, investigar, auditar y documentar seguridad.
-⚡ HT Forge 2.0.0
+⚡ HT Forge 2.1.0
 🛡️ CyberSecurity Research & Assessment Platform
+
+La finalidad es proporcionar una herramienta organizada, modular y profesional para aprender, investigar, auditar y documentar seguridad.
+
+🚀 Si te mola la ciberseguridad y quieres subir de nivel rodeado de gente que está en lo mismo que tú… este es tu sitio.
+
+🌐 Página Web:
+https://www.hackingteamoficcial.uk/
+
+💻 GitHub:
+https://github.com/HackingTeamOficial
+
+📲 Telegram:
+https://t.me/PlantillasNucleiHackingTeam
+https://t.me/HackingTeamGrupoOfficial
+https://t.me/+0hHSaKO7eI9mNWY8 (Difusión)
+https://t.me/+llcmNGzz6JIyMmI0 (Biblioteca)
+https://t.me/TermuxHackingTeam
+
+🐦 X (Twitter):
+@HackingTeam77
+
+🦋 Bluesky:
+https://bsky.app/profile/hackingteam.bsky.social
+
+💬 Discord:
+https://discord.gg/V4nPFbQX
+
+📘 Facebook:
+https://www.facebook.com/groups/hackingteam2022/?ref=share
+https://www.facebook.com/groups/HackingTeamCyber/?ref=share
+
+🎥 YouTube:
+https://www.youtube.com/@HackingTeamOficial/videos
+
+🎵 TikTok:
+https://www.tiktok.com/@hackingteamprohackers
+https://www.tiktok.com/@hacking.kdea?_t=ZS-8vTtlaQrDTL&_r=1
