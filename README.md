@@ -275,7 +275,7 @@ Utilízala sobre:
 No utilices la herramienta para acceder, alterar o probar sistemas de terceros sin autorización.
 📌 Estado del proyecto
 
-Versión actual: HT Forge 2.1.0
+Versión actual: HT Forge 2.1.0 Para futuros Colaboradores:
 
 La numeración de versiones se mantiene de forma secuencial.
 
@@ -288,6 +288,7 @@ PRO
 PREMIUM
 
 🏴 Identidad del proyecto
+
 ⚡ HT Forge CyberSecurity
 
 Research · Recon · Audit · Pentest · Analysis · Reporting
@@ -308,7 +309,36 @@ Research · Recon · Audit · Pentest · Analysis · Reporting
 📊 Reporting
 
 ⚡ HT Forge 2.1.0
-🛡️ CyberSecurity Research & Assessment Platform
+🛡️ CyberSecurity Research & Assessment Platform 
+
+Actualizaciones:
+---------------------------------------------------------------------------------------------------------------------------------- 
+
+(Actualizada 14/09/2026 16:55 PM)
+
+Las 10 mejoras:
+
+1 Matriz SSRF — respuesta del destino → CONFIRMED+, conexión demostrada → CONFIRMED, timeout/diferencial → LIKELY, solo acepta URL → CANDIDATE+info. El informe guarda ssrf_level y qué evidencia subió el nivel.
+
+2 LFI segunda sonda — tras /etc/passwd prueba otro fichero inocuo (second_file → +15 independiente).
+
+3 BOLA segundo contexto — auth_contexts en config: A→propio vs B→objeto de A (DENIED / 200+datos); sin él, verification_needed en vez de inventarlo.
+
+4 XSS 3 niveles — política: sin contexto ejecutable, máx LIKELY. Lo ejecutable sigue VERIFIED.
+
+5 Escalera SQLi — error-based + boolean-based sobre el mismo parámetro suben a CONFIRMED (metadata.ladder, única subida permitida).
+
+6 SSTI matemático — 77→49, 88→64, 9*9→81; triple → CONFIRMED 95.
+
+7 XXE renombrado — entidad interna → "Unsafe XML entity processing", máx VERIFIED; XXE confirmed solo con resolución externa.
+
+8 Guardia permisivos — RFI/SSI/marcadores jamás se autoconfirman (máx LIKELY, sin consecuencia → CANDIDATE).
+
+9 Evidencia ponderada — 30+25+20+15+10 con desglose por hallazgo; CONFIRMED≥70 (+repro o independiente), VERIFIED≥40, LIKELY≥35. Solo degrada.
+
+10 Pipeline 9.8 — ya existía; ahora con score, escalera y actionable antes de reportes.
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 La finalidad es proporcionar una herramienta organizada, modular y profesional para aprender, investigar, auditar y documentar seguridad.
 
