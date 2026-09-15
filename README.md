@@ -21,6 +21,12 @@ Versión actual: HT Forge 2.1.0
 
     ⚠️ Importante: HT Forge debe utilizarse únicamente sobre sistemas propios, laboratorios, CTF o activos para los que exista autorización expresa.
 
+⚠️ **POLÍTICA DE FORK**
+
+**Este repositorio no debe ser forkado.** Si deseas contribuir o colaborar, contacta directamente a **HackingTeamOficial**.
+
+Consulta nuestros canales de contacto al final de este README.
+
 🔥 ¿Qué es HT Forge?
 
 HT Forge reúne en una única herramienta capacidades de:
@@ -318,7 +324,7 @@ Actualizaciones:
 
 Las 10 mejoras:
 
-1 Matriz SSRF — respuesta del destino → CONFIRMED+, conexión demostrada → CONFIRMED, timeout/diferencial → LIKELY, solo acepta URL → CANDIDATE+info. El informe guarda ssrf_level y qué evidencia subió el nivel.
+1 Matriz SSRF — respuesta del destino → CONFIRMED+, conexión demostrada → CONFIRMED, timeout/diferencial → LIKELY, solo acepta URL → CANDIDATE+info. El informe guarda ssrf_level y qué[...]
 
 2 LFI segunda sonda — tras /etc/passwd prueba otro fichero inocuo (second_file → +15 independiente).
 
