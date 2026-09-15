@@ -1,4 +1,4 @@
-⚡ HT Forge (Actualizada 14/09/2026 16:55 PM)
+⚡ HT Forge (Actualizada 15/09/2026 22:03 PM)
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_11" src="https://github.com/user-attachments/assets/dc9e0ebf-4a07-4c4c-9256-31c3d7ccaf17" />
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_14_33_51" src="https://github.com/user-attachments/assets/13c4734d-736f-4b0f-9f11-38b4afbc4ffd" />
@@ -320,7 +320,7 @@ Research · Recon · Audit · Pentest · Analysis · Reporting
 Actualizaciones:
 ---------------------------------------------------------------------------------------------------------------------------------- 
 
-(Actualizada 14/09/2026 16:55 PM)
+--(Actualizada 14/09/2026 16:55 PM)
 
 Las 10 mejoras:
 
@@ -343,6 +343,21 @@ Las 10 mejoras:
 9 Evidencia ponderada — 30+25+20+15+10 con desglose por hallazgo; CONFIRMED≥70 (+repro o independiente), VERIFIED≥40, LIKELY≥35. Solo degrada.
 
 10 Pipeline 9.8 — ya existía; ahora con score, escalera y actionable antes de reportes.
+
+--(Actualizada 15/09/2026 PM)
+
+El escaneo finalizó con el estado completed_with_errors debido al siguiente fallo interno de la herramienta:
+Error: backup_exposure: name 'PLUGIN_TYPE' is not defined
+Causa: Un fallo de código (excepción por variable no definida) dentro del módulo backup_exposure de HT Forge.
+Impacto: Este error impidió que la herramienta analizara la presencia de copias de seguridad expuestas de manera automatizada.
+
+Debido a qué: add() en plugins/_extended_common.py usaba la variable global PLUGIN_TYPE, que no existe en ese módulo.
+
+Por qué: cada detector hace from _extended_common import * y define su propio PLUGIN_TYPE='backup_exposure', pero la función importada sigue mirando los globals de _extended_common, no los del detector. Al dispararse un hallazgo real (un /backup.zip con 200), add() estallaba con NameError y el motor marcaba completed_with_errors.
+
+Alcance: no era solo backup_exposure — eran los 68 detectores que usan ese helper. Solo se veía cuando alguno encontraba algo; el resto volvía vacío y parecía sano.
+
+Arreglo: add() resuelve el tipo subiendo la pila hasta el detector que llamó (verificado: emite type='backup_exposure'), con fallback unknown. Sin tocar los 68 módulos. 22/22 tests en verde y reproducción en vivo sin errores.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
