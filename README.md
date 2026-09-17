@@ -1,4 +1,4 @@
-⚡ HT Forge (Actualizada 15/09/2026 22:03 PM)
+⚡ HT Forge (Actualizada 17/09/2026 11:05 PM)
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_11" src="https://github.com/user-attachments/assets/dc9e0ebf-4a07-4c4c-9256-31c3d7ccaf17" />
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_14_33_51" src="https://github.com/user-attachments/assets/13c4734d-736f-4b0f-9f11-38b4afbc4ffd" />
@@ -358,6 +358,10 @@ Por qué: cada detector hace from _extended_common import * y define su propio P
 Alcance: no era solo backup_exposure — eran los 68 detectores que usan ese helper. Solo se veía cuando alguno encontraba algo; el resto volvía vacío y parecía sano.
 
 Arreglo: add() resuelve el tipo subiendo la pila hasta el detector que llamó (verificado: emite type='backup_exposure'), con fallback unknown. Sin tocar los 68 módulos. 22/22 tests en verde y reproducción en vivo sin errores.
+
+--(Actualizada 17/09/2026 11:05 PM)
+
+Modulo DEMO se cortaba antes de tiempo de uso 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
