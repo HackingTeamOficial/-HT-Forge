@@ -1,9 +1,12 @@
-⚡ HT Forge (Actualizada 17/09/2026 11:05 PM)
+⚡ HT Forge (Actualizada 19/09/2026 1:30 AM)
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_11" src="https://github.com/user-attachments/assets/dc9e0ebf-4a07-4c4c-9256-31c3d7ccaf17" />
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_14_33_51" src="https://github.com/user-attachments/assets/13c4734d-736f-4b0f-9f11-38b4afbc4ffd" />
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_30" src="https://github.com/user-attachments/assets/addc5d19-050d-4356-aaf4-7c7256139725" />
+
+<img width="1920" height="1080" alt="Screenshot_2026-09-18_21_20_17" src="https://github.com/user-attachments/assets/9a3a5271-3c2a-4ceb-91a7-f5d1f40ca4bf" />
+
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_11_52" src="https://github.com/user-attachments/assets/1057b951-52fd-4f1a-a19e-f9ab4bcc43d4" />
 
@@ -362,6 +365,27 @@ Arreglo: add() resuelve el tipo subiendo la pila hasta el detector que llamó (v
 --(Actualizada 17/09/2026 11:05 PM)
 
 Modulo DEMO se cortaba antes de tiempo de uso 
+
+--(Actualizada 19/09/2026 1:30 AM)
+
+Panel Brute Force
+Dentro de Forge tendría su propia pestaña:
+Target / Host
+Puerto
+Servicio
+Usuario
+Lista de usuarios
+Wordlist
+Threads
+Timeout
+Start / Stop
+Progreso
+Intentos realizados
+Velocidad
+Éxitos
+Fallos
+Estado de la auditoría
+Exportación de resultados
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
