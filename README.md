@@ -393,6 +393,10 @@ La finalidad es proporcionar una herramienta organizada, modular y profesional p
 
 🚀 Si te mola la ciberseguridad y quieres subir de nivel rodeado de gente que está en lo mismo que tú… este es tu sitio.
 
+Alegrame con buen <img width="204" height="192" alt="Untitled" src="https://github.com/user-attachments/assets/8dfb73d1-ae04-4a05-bf12-4fdd7e1fe01d" />
+
+https://www.paypal.com/paypalme/jsecopalacios
+
 🌐 Página Web:
 https://www.hackingteamoficcial.uk/
 
