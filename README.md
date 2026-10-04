@@ -1,4 +1,4 @@
-⚡ HT Forge (Actualizada 04/10/2026 11:23 AM)
+⚡ HT Forge 2.2.0 (Actualizada 04/10/2026 11:23 AM)
 <img width="1920" height="1080" alt="Screenshot_2026-10-04_11_22_13" src="https://github.com/user-attachments/assets/9bfb4b5a-6abd-4ce7-a824-2759dfbc4203" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_09" src="https://github.com/user-attachments/assets/6376f407-0089-46a0-ac14-78677849087a" />
 <img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_17" src="https://github.com/user-attachments/assets/43ab747c-c07f-497a-ac6c-925ad53d418c" />
