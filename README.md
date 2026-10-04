@@ -250,7 +250,7 @@ Build. Test. Verify. Report.
 Creada para la comunidad de hackers y profesionales de ciberseguridad.
 
 HT Forge CiberSecurity
-
+----------------------------------------------------------------------------------------------------------------------------------
 ⚡ HT Forge 2.1.0
 
 🛡️ Plataforma de investigación y evaluación de seguridad
