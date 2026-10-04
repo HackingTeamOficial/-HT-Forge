@@ -1,3 +1,16 @@
+⚡ HT Forge (Actualizada 04/10/2026 11:23 AM)
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_22_13" src="https://github.com/user-attachments/assets/9bfb4b5a-6abd-4ce7-a824-2759dfbc4203" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_09" src="https://github.com/user-attachments/assets/6376f407-0089-46a0-ac14-78677849087a" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_17" src="https://github.com/user-attachments/assets/43ab747c-c07f-497a-ac6c-925ad53d418c" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_27" src="https://github.com/user-attachments/assets/916d77c3-1fe7-4aca-9298-f311a0e48df7" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_37" src="https://github.com/user-attachments/assets/af0f8adc-5a1e-4f56-9ea7-b2da4822f0ab" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_06" src="https://github.com/user-attachments/assets/18f87a95-64fe-4da9-a288-513bed36b58c" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_19" src="https://github.com/user-attachments/assets/3a38a20a-7876-49a9-910e-6dd73b80e13d" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_32" src="https://github.com/user-attachments/assets/28a6af79-7f4e-4e24-8d94-5a7848c51f56" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_39" src="https://github.com/user-attachments/assets/ea7c6d7e-b14d-43c4-bfb7-2433ec230973" />
+<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_53" src="https://github.com/user-attachments/assets/74440662-7da0-4a8c-ad59-1b3f1d4689ad" />
+
+
 ⚡ HT Forge (Actualizada 19/09/2026 1:30 AM)
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_11" src="https://github.com/user-attachments/assets/dc9e0ebf-4a07-4c4c-9256-31c3d7ccaf17" />
 
