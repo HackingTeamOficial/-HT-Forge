@@ -14,6 +14,243 @@
 
 <img width="1920" height="1080" alt="Screenshot_2026-09-13_18_12_19" src="https://github.com/user-attachments/assets/97159b2e-b9b1-411a-9ce1-e0af23fb0059" />
 
+🚀 Novedades de HT Forge 2.2.0 🧠 HT FORGE AI CORE
+
+Integración de un núcleo de análisis mediante IA local compatible con Ollama.
+
+Características:
+
+Análisis asistido de hallazgos.
+Análisis de vulnerabilidades y CVE.
+Funcionamiento con modelos locales.
+Selección de modelos disponibles.
+Procesamiento de resultados generados por Forge.
+Arquitectura read-only sobre los hallazgos.
+Forge Core mantiene la autoridad técnica sobre el resultado final.
+La IA no convierte automáticamente una sospecha en una vulnerabilidad confirmada.
+🔍 Motor Forge
+
+Mejoras en la arquitectura interna de análisis:
+
+Descubrimiento.
+Reconocimiento.
+Pruebas dinámicas.
+Correlación de evidencias.
+Confirmación de hallazgos.
+Clasificación de resultados.
+Resultados CONFIRMED, REFUTED e INCONCLUSIVE.
+Retesting y regresión.
+Arquitectura modular.
+
+El objetivo continúa siendo reducir falsos positivos mediante evidencia verificable y correlación entre fases.
+
+⚔️ HT Brute Force
+
+Integración del módulo HT Brute Force dentro del ecosistema Forge.
+
+Incluye infraestructura para:
+
+Port scanning.
+Service audit.
+Identificación de servicios.
+Gestión de usuarios.
+Wordlists.
+Análisis de hashes.
+Trabajos asíncronos.
+Cancelación de trabajos.
+Integración con los resultados del scanner.
+Soporte para distintos servicios y protocolos.
+
+HT Brute Force está diseñado para utilizarse exclusivamente en sistemas sobre los que se tenga autorización.
+
+📊 Reporting avanzado
+
+HT Forge 2.2.0 amplía las capacidades de generación de informes.
+
+Formatos disponibles:
+
+HTML
+PDF
+JSON
+CSV
+Markdown
+XML
+TXT
+STIX
+
+Los informes pueden utilizar los resultados obtenidos durante el proceso de evaluación y conservar las evidencias asociadas a los hallazgos.
+
+🧩 STIX
+
+Se incorpora soporte para exportación orientada a intercambio de información de seguridad mediante STIX.
+
+Esto permite utilizar los resultados de Forge en flujos de análisis y plataformas compatibles.
+
+🧪 Testing y QA
+
+La versión 2.2.0 incorpora una revisión adicional de estabilidad y regresión.
+
+Estado actual de la suite incluida:
+
+14/14 tests PASS
+
+Además se han realizado comprobaciones sobre:
+
+Importación de módulos principales.
+Sintaxis Python.
+Sintaxis JavaScript.
+AI Core.
+Core Engine.
+Exportadores.
+Base de datos.
+Licencias.
+HT Brute Force.
+Integración de componentes.
+🖥️ Dashboard y UI
+
+Mejoras de estabilidad en la interfaz web.
+
+Se ha corregido un problema JavaScript relacionado con la actualización dinámica del dashboard que podía afectar a funciones posteriores de la interfaz.
+
+La interfaz continúa orientada a:
+
+Visualización de escaneo.
+Hallazgos.
+Estado de módulos.
+Logs.
+Resultados.
+Reporting.
+AI Core.
+HT Brute Force.
+🔐 Sistema de licencias
+
+HT Forge 2.2.0 mantiene el sistema de licencias existente.
+
+Se conserva:
+
+Validación de licencia.
+Ediciones DEMO / PRO / PREMIUM.
+Validación criptográfica.
+Protección frente a manipulación temporal.
+Almacenamiento protegido.
+Control de edición.
+
+La lógica de licencias existente no ha sido rediseñada en esta actualización.
+
+📡 Telegram
+
+La integración existente de Telegram se mantiene sin modificaciones funcionales.
+
+El objetivo de esta actualización es mejorar estabilidad y calidad sin alterar comportamientos que ya funcionan correctamente.
+
+🧹 Limpieza del paquete
+
+El paquete de distribución ha sido revisado para evitar incorporar archivos generados durante desarrollo o pruebas.
+
+Se han eliminado:
+
+__pycache__
+archivos .pyc
+bases de datos temporales
+artefactos de ejecución
+informes generados durante pruebas
+archivos runtime temporales
+
+El paquete distribuido está preparado para una instalación limpia.
+
+🏗️ Arquitectura
+
+HT Forge 2.2.0 mantiene una arquitectura modular compuesta por diferentes capas:
+
+HT Forge
+│
+├── Core Engine
+│   ├── Scanner
+│   ├── Evidence
+│   ├── Correlation
+│   └── Verification
+│
+├── AI Core
+│   └── Ollama / Local Models
+│
+├── HT Brute Force
+│   ├── Port Scan
+│   ├── Service Audit
+│   ├── Hash Analysis
+│   └── Authentication Testing
+│
+├── Reporting
+│   ├── HTML
+│   ├── PDF
+│   ├── JSON
+│   ├── CSV
+│   ├── XML
+│   ├── Markdown
+│   └── STIX
+│
+├── License
+│
+└── Web UI
+🎯 Filosofía de HT Forge
+
+HT Forge no pretende basar un resultado únicamente en una respuesta automática.
+
+El flujo está orientado a:
+
+DISCOVERY
+    ↓
+TEST
+    ↓
+EVIDENCE
+    ↓
+CORRELATION
+    ↓
+VERIFICATION
+    ↓
+CONFIRMED / REFUTED / INCONCLUSIVE
+    ↓
+REPORT
+
+La IA puede ayudar a interpretar y analizar, pero la autoridad técnica permanece en el motor Forge.
+
+🌐 Entorno
+
+HT Forge está orientado principalmente a:
+
+Auditorías de seguridad autorizadas.
+Pentesting.
+DAST.
+AppSec.
+Investigación de vulnerabilidades.
+Laboratorios de seguridad.
+Red Team autorizado.
+Validación de controles de seguridad.
+Formación y aprendizaje de ciberseguridad.
+⚠️ Uso autorizado
+
+HT Forge debe utilizarse únicamente contra sistemas, aplicaciones, redes y servicios para los que el usuario tenga autorización expresa.
+
+El usuario es responsable del uso que haga de la herramienta y de cumplir la legislación y las políticas aplicables.
+
+📦 Versión
+
+HT Forge 2.2.0
+
+Release: 2.2.0
+Estado: Stable / Clean Release
+AI Core: Ollama / Local Models
+Reporting: HTML · PDF · JSON · CSV · XML · MD · TXT · STIX
+HT Brute Force: Integrated
+Tests: 14/14 PASS
+
+🛡️ HT FORGE
+
+Build. Test. Verify. Report.
+
+Creada para la comunidad de hackers y profesionales de ciberseguridad.
+
+HT Forge CiberSecurity
+
 ⚡ HT Forge 2.1.0
 
 🛡️ Plataforma de investigación y evaluación de seguridad
