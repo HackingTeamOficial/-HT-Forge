@@ -1,688 +1,192 @@
-⚡ HT Forge 2.2.0 (Actualizada 04/10/2026 11:23 AM)
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_22_13" src="https://github.com/user-attachments/assets/9bfb4b5a-6abd-4ce7-a824-2759dfbc4203" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_09" src="https://github.com/user-attachments/assets/6376f407-0089-46a0-ac14-78677849087a" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_17" src="https://github.com/user-attachments/assets/43ab747c-c07f-497a-ac6c-925ad53d418c" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_27" src="https://github.com/user-attachments/assets/916d77c3-1fe7-4aca-9298-f311a0e48df7" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_20_37" src="https://github.com/user-attachments/assets/af0f8adc-5a1e-4f56-9ea7-b2da4822f0ab" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_06" src="https://github.com/user-attachments/assets/18f87a95-64fe-4da9-a288-513bed36b58c" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_19" src="https://github.com/user-attachments/assets/3a38a20a-7876-49a9-910e-6dd73b80e13d" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_32" src="https://github.com/user-attachments/assets/28a6af79-7f4e-4e24-8d94-5a7848c51f56" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_39" src="https://github.com/user-attachments/assets/ea7c6d7e-b14d-43c4-bfb7-2433ec230973" />
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_11_21_53" src="https://github.com/user-attachments/assets/74440662-7da0-4a8c-ad59-1b3f1d4689ad" />
+# HT Forge 2.3.1
 
+## HT Forge CiberSecurity
 
-⚡ HT Forge (Actualizada 19/09/2026 1:30 AM)
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_11" src="https://github.com/user-attachments/assets/dc9e0ebf-4a07-4c4c-9256-31c3d7ccaf17" />
+**DEMO · PRO · PREMIUM en un único paquete**
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_14_33_51" src="https://github.com/user-attachments/assets/13c4734d-736f-4b0f-9f11-38b4afbc4ffd" />
+HT Forge es una plataforma modular para investigación de seguridad, auditoría, bug bounty autorizado, laboratorios, CTF y pentesting con permiso. Esta edición unificada mantiene un único código y una única instalación; la edición activa se determina mediante el sistema de licencia existente.
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_18_10_30" src="https://github.com/user-attachments/assets/addc5d19-050d-4356-aaf4-7c7256139725" />
+> **Uso autorizado únicamente.** Solo analiza sistemas sobre los que tengas permiso.
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-18_21_20_17" src="https://github.com/user-attachments/assets/9a3a5271-3c2a-4ceb-91a7-f5d1f40ca4bf" />
+---
 
+## Qué incluye
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_18_11_52" src="https://github.com/user-attachments/assets/1057b951-52fd-4f1a-a19e-f9ab4bcc43d4" />
+- Motor nativo Forge.
+- Crawler y descubrimiento de superficie.
+- Fingerprinting tecnológico.
+- SQL Injection con señales de error, baseline y comparación diferencial.
+- XSS reflejado y análisis de contexto.
+- IDOR/BOLA y controles de acceso.
+- LFI / Path Traversal.
+- SSRF, SSTI, SSI y otros detectores modulares.
+- API/OpenAPI/GraphQL y WebSocket testing.
+- Workbench con historial, Repeater y fuzzing controlado.
+- Findings con severidad, scoring y evidencias.
+- Exportación de informes HTML/PDF.
+- Dashboard Infographic Fixed v3.
+- Tema claro/oscuro y acento configurable.
+- DEMO, PRO y PREMIUM dentro del mismo paquete.
+- Validación por clave existente.
+- Detectores propios 2.0.0: anti-CSRF, tabnabbing, timestamp/hash disclosure, SRI y session ID en URL, con nivel de confianza por hallazgo.
+- SQLi ampliado: firmas de 10 DBMS mas, inferencia de columnas por ORDER BY y sondas stacked queries.
+- XSS ampliado: correccion de reflejado, deteccion de almacenado, sumideros DOM y vector iframe srcdoc.
+- Reportes en Documentos/HTForge con descarga en JSON, HTML, PDF, CSV, MD, XML y TXT.
+- Integración Telegram existente.
+- **HT Forge AI Core** local con Ollama/Hermes, análisis read-only y conocimiento local.
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_18_12_09" src="https://github.com/user-attachments/assets/4250c11b-56b5-4223-a1ac-bb087a8e39df" />
+---
 
-<img width="1920" height="1080" alt="Screenshot_2026-09-13_18_12_19" src="https://github.com/user-attachments/assets/97159b2e-b9b1-411a-9ce1-e0af23fb0059" />
+## Ediciones
 
-🚀 Novedades de HT Forge 2.2.0 🧠 HT FORGE AI CORE
+| Edición | Acceso |
+|---|---|
+| **DEMO** | Prueba con las limitaciones definidas por licencia/perfil |
+| **PRO** | Capacidades ampliadas según licencia |
+| **PREMIUM** | Conjunto completo de módulos y Workbench |
 
-Integración de un núcleo de análisis mediante IA local compatible con Ollama.
+No hay tres instalaciones separadas: **las tres ediciones forman parte de esta distribución unificada**.
 
-Características:
+---
 
-Análisis asistido de hallazgos.
-Análisis de vulnerabilidades y CVE.
-Funcionamiento con modelos locales.
-Selección de modelos disponibles.
-Procesamiento de resultados generados por Forge.
-Arquitectura read-only sobre los hallazgos.
-Forge Core mantiene la autoridad técnica sobre el resultado final.
-La IA no convierte automáticamente una sospecha en una vulnerabilidad confirmada.
-🔍 Motor Forge
+## Arranque en Linux
 
-Mejoras en la arquitectura interna de análisis:
+```bash
+chmod +x launch.sh
+./launch.sh
+```
 
-Descubrimiento.
-Reconocimiento.
-Pruebas dinámicas.
-Correlación de evidencias.
-Confirmación de hallazgos.
-Clasificación de resultados.
-Resultados CONFIRMED, REFUTED e INCONCLUSIVE.
-Retesting y regresión.
-Arquitectura modular.
+Por defecto la GUI queda disponible en `http://127.0.0.1:9090`.
 
-El objetivo continúa siendo reducir falsos positivos mediante evidencia verificable y correlación entre fases.
+---
 
-⚔️ HT Brute Force
+## Arranque en Windows
 
-Integración del módulo HT Brute Force dentro del ecosistema Forge.
+El paquete incluye el script `build_tools\build_windows_exe.ps1` para generar el PE nativo y, si está instalado Inno Setup 6, el instalador.
 
-Incluye infraestructura para:
+Esta distribución de código no incluye un `.exe` precompilado ni un archivo de licencia activado.
 
-Port scanning.
-Service audit.
-Identificación de servicios.
-Gestión de usuarios.
-Wordlists.
-Análisis de hashes.
-Trabajos asíncronos.
-Cancelación de trabajos.
-Integración con los resultados del scanner.
-Soporte para distintos servicios y protocolos.
+---
 
-HT Brute Force está diseñado para utilizarse exclusivamente en sistemas sobre los que se tenga autorización.
+## Estructura
 
-📊 Reporting avanzado
+```text
+core/       Motor, licencia, DB, scoring, Workbench y servicios internos
+plugins/    Detectores y módulos de seguridad
+ui/         Dashboard y servidor local
+tests/      Suite de regresión
+docs/       Documentación técnica
+security/   Material de integridad y claves públicas
+runtime/    Estado local de instalación (sin historial de escaneos)
+reports/    Destino de nuevos informes
+```
 
-HT Forge 2.2.0 amplía las capacidades de generación de informes.
+---
 
-Formatos disponibles:
+## HT Forge AI Core · Ollama / Hermes
 
-HTML
-PDF
-JSON
-CSV
-Markdown
-XML
-TXT
-STIX
+La distribución incluye una capa de IA **opcional y local**. El modelo no sustituye al motor Forge: analiza evidencias ya obtenidas, ayuda a clasificar hallazgos, detectar riesgo de falso positivo, correlacionar resultados y preparar resúmenes técnicos.
 
-Los informes pueden utilizar los resultados obtenidos durante el proceso de evaluación y conservar las evidencias asociadas a los hallazgos.
+### Activación local
 
-🧩 STIX
+1. Instala Ollama en el equipo.
+2. Inicia el servicio local de Ollama.
+3. Descarga el modelo recomendado:
 
-Se incorpora soporte para exportación orientada a intercambio de información de seguridad mediante STIX.
+```powershell
+ollama pull llama3.1:latest
+```
 
-Esto permite utilizar los resultados de Forge en flujos de análisis y plataformas compatibles.
+4. Inicia HT Forge y abre **HT Forge AI**.
 
-🧪 Testing y QA
-
-La versión 2.2.0 incorpora una revisión adicional de estabilidad y regresión.
-
-Estado actual de la suite incluida:
-
-14/14 tests PASS
-
-Además se han realizado comprobaciones sobre:
-
-Importación de módulos principales.
-Sintaxis Python.
-Sintaxis JavaScript.
-AI Core.
-Core Engine.
-Exportadores.
-Base de datos.
-Licencias.
-HT Brute Force.
-Integración de componentes.
-🖥️ Dashboard y UI
-
-Mejoras de estabilidad en la interfaz web.
-
-Se ha corregido un problema JavaScript relacionado con la actualización dinámica del dashboard que podía afectar a funciones posteriores de la interfaz.
-
-La interfaz continúa orientada a:
-
-Visualización de escaneo.
-Hallazgos.
-Estado de módulos.
-Logs.
-Resultados.
-Reporting.
-AI Core.
-HT Brute Force.
-🔐 Sistema de licencias
-
-HT Forge 2.2.0 mantiene el sistema de licencias existente.
-
-Se conserva:
-
-Validación de licencia.
-Ediciones DEMO / PRO / PREMIUM.
-Validación criptográfica.
-Protección frente a manipulación temporal.
-Almacenamiento protegido.
-Control de edición.
-
-La lógica de licencias existente no ha sido rediseñada en esta actualización.
-
-📡 Telegram
-
-La integración existente de Telegram se mantiene sin modificaciones funcionales.
-
-El objetivo de esta actualización es mejorar estabilidad y calidad sin alterar comportamientos que ya funcionan correctamente.
-
-🧹 Limpieza del paquete
-
-El paquete de distribución ha sido revisado para evitar incorporar archivos generados durante desarrollo o pruebas.
-
-Se han eliminado:
-
-__pycache__
-archivos .pyc
-bases de datos temporales
-artefactos de ejecución
-informes generados durante pruebas
-archivos runtime temporales
+Variables opcionales:
 
-El paquete distribuido está preparado para una instalación limpia.
+```text
+HTFORGE_OLLAMA_URL=http://127.0.0.1:11434
+HTFORGE_AI_MODEL=llama3.1:latest
+```
 
-🏗️ Arquitectura
+La integración por defecto es `127.0.0.1`; no se envían hallazgos a servicios externos. La IA permanece **READ-ONLY** y no tiene acceso a shell ni ejecución arbitraria.
 
-HT Forge 2.2.0 mantiene una arquitectura modular compuesta por diferentes capas:
+### Funciones de la primera integración
 
-HT Forge
-│
-├── Core Engine
-│   ├── Scanner
-│   ├── Evidence
-│   ├── Correlation
-│   └── Verification
-│
-├── AI Core
-│   └── Ollama / Local Models
-│
-├── HT Brute Force
-│   ├── Port Scan
-│   ├── Service Audit
-│   ├── Hash Analysis
-│   └── Authentication Testing
-│
-├── Reporting
-│   ├── HTML
-│   ├── PDF
-│   ├── JSON
-│   ├── CSV
-│   ├── XML
-│   ├── Markdown
-│   └── STIX
-│
-├── License
-│
-└── Web UI
-🎯 Filosofía de HT Forge
+- comprobación de Ollama y modelos instalados;
+- análisis estructurado de un finding;
+- resumen inteligente de una sesión;
+- recuperación de conocimiento local por categoría;
+- normalización de veredictos y confianza;
+- política que bloquea acciones de ejecución.
 
-HT Forge no pretende basar un resultado únicamente en una respuesta automática.
+> La disponibilidad de un modelo depende de que esté instalado en el equipo. El paquete no incluye los pesos de los modelos para mantener una distribución razonable.
 
-El flujo está orientado a:
+## Estado de calidad heredado de la compilación 2.2.0
 
-DISCOVERY
-    ↓
-TEST
-    ↓
-EVIDENCE
-    ↓
-CORRELATION
-    ↓
-VERIFICATION
-    ↓
-CONFIRMED / REFUTED / INCONCLUSIVE
-    ↓
-REPORT
+Suite AI verificada antes del empaquetado:
 
-La IA puede ayudar a interpretar y analizar, pero la autoridad técnica permanece en el motor Forge.
+**14/14 pruebas AI OK** (9 existentes + 5 nuevas)
 
-🌐 Entorno
+La limpieza de distribución elimina datos generados durante desarrollo, incluyendo informes anteriores, base de datos SQLite de sesiones y cachés Python.
 
-HT Forge está orientado principalmente a:
+### Conservado intencionadamente
 
-Auditorías de seguridad autorizadas.
-Pentesting.
-DAST.
-AppSec.
-Investigación de vulnerabilidades.
-Laboratorios de seguridad.
-Red Team autorizado.
-Validación de controles de seguridad.
-Formación y aprendizaje de ciberseguridad.
-⚠️ Uso autorizado
+- Sistema de validación por clave/licencia.
+- Activación y protección de licencia.
+- Integración Telegram.
+- Módulos nativos de HT Forge.
 
-HT Forge debe utilizarse únicamente contra sistemas, aplicaciones, redes y servicios para los que el usuario tenga autorización expresa.
+No se alteran esos mecanismos durante esta limpieza.
 
-El usuario es responsable del uso que haga de la herramienta y de cumplir la legislación y las políticas aplicables.
+---
 
-📦 Versión
+## Reportes
 
-HT Forge 2.2.0
+Los informes nuevos se almacenan en `reports/` y se generan por sesión. El dashboard permite acceder a los formatos disponibles cuando el escaneo termina.
 
-Release: 2.2.0
-Estado: Stable / Clean Release
-AI Core: Ollama / Local Models
-Reporting: HTML · PDF · JSON · CSV · XML · MD · TXT · STIX
-HT Brute Force: Integrated
-Tests: 14/14 PASS
+---
 
-🛡️ HT FORGE
+## Seguridad del propio producto
 
-Build. Test. Verify. Report.
+HT Forge debe ejecutarse con los mínimos privilegios necesarios. La GUI está diseñada para uso local. Antes de exponerla fuera de `127.0.0.1`, debe revisarse el modelo de autenticación y las cabeceras HTTP.
 
-Creada para la comunidad de hackers y profesionales de ciberseguridad.
+---
 
-HT Forge CiberSecurity
-----------------------------------------------------------------------------------------------------------------------------------
-⚡ HT Forge 2.1.0
+## Autor
 
-🛡️ Plataforma de investigación y evaluación de seguridad
+**Creada por Juan Antonio para la Comunidad de Hackers y Expertos en CiberSeguridad en España y la Comunidad Hispano Hablante.**
 
-HT Forge es una plataforma modular orientada a investigación de ciberseguridad, auditoría web, pentesting autorizado y evaluación de superficies de ataque.
+## HT Forge 2.2.0 — Verified Security Workbench (base anterior)
+- Centralized evidence states: DISCOVERED/CANDIDATE/PROBED/CORRELATED/VERIFIED/CONFIRMED/INCONCLUSIVE/REFUTED.
+- Evidence quality metadata and conservative Core/AI correlation; local AI remains read-only and cannot override Forge Core.
+- Runtime module-health inventory at `/api/module-health` distinguishing functional, discovery-only and broken imports.
+- Functional OpenAPI/Swagger/API documentation discovery module.
+- Fixed `Context.get_report()` and normalized every finding before emission.
+- Automated QA includes the packaged AI regression suite; the release must be validated with the tests actually shipped in this package.
 
-Versión actual: HT Forge 2.1.0
+## HT Forge 2.3.1 — Quality Foundation
 
-    ⚠️ Importante: HT Forge debe utilizarse únicamente sobre sistemas propios, laboratorios, CTF o activos para los que exista autorización expresa.
+This release adds the **Detector Quality Lab** under **HT Forge AI** and exposes the local-only endpoint `GET /api/quality-lab`. It checks synthetic evidence-policy cases, evidence normalization/scoring consistency, and plugin import health without sending traffic to targets. The AI analyst can also prepare advisory validation plans for selected findings; plans do not execute shell commands or send network requests. It also fixes a confirmation-policy exception when a low-evidence finding is downgraded.
 
-⚠️ **POLÍTICA DE FORK**
+Run the shipped checks with:
 
-**Este repositorio no debe ser forkado.** Si deseas contribuir o colaborar, contacta directamente a **HackingTeamOficial**.
+```bash
+python -m unittest discover -s tests -v
+python -m unittest ai_core.test_ai_core_220 -v
+```
 
-Consulta nuestros canales de contacto al final de este README.
+These checks do not replace a real detection benchmark. For measurable false-positive/false-negative rates, run the detectors against a controlled corpus containing both vulnerable and non-vulnerable fixtures.
 
-🔥 ¿Qué es HT Forge?
 
-HT Forge reúne en una única herramienta capacidades de:
+## VulnLab Benchmark y Evidence Graph (misma versión 2.3.1)
 
-    🔎 Reconocimiento y fingerprinting
-    🕷️ Crawler y descubrimiento de URLs
-    🎯 Análisis de parámetros y superficie de ataque
-    🛡️ Detección de vulnerabilidades web
-    🔌 Análisis de APIs y diferentes superficies técnicas
-    📋 Evidencia y clasificación de hallazgos
-    📊 Generación de informes
-    🗂️ Historial de escaneos
-    🧩 Automatización mediante módulos
-    ⚙️ Interfaz gráfica y controles de ejecución
+- **HT Forge AI → VulnLab** ejecuta un benchmark local de 20 casos sintéticos, en loopback y puerto temporal, con TP/FP/FN/TN por adaptador de prueba.
+- **Evidence Graph** correlaciona hallazgos, endpoints, tecnologías y campos de evidencia sin incluir query strings ni valores sensibles.
+- **Asistente de explotación controlada** prepara planes de validación seguros y explicados. Es consultivo: no ejecuta comandos ni extrae datos.
 
-El objetivo es proporcionar un entorno único para investigar, analizar y documentar problemas de seguridad, evitando tener que trabajar con múltiples herramientas independientes para cada fase.
-👥 ¿Para quién está orientado?
+Pruebas añadidas:
 
-HT Forge está pensado principalmente para:
+```bash
+python -m unittest discover -s tests -v
+python -m unittest ai_core.test_ai_core_220 -v
+```
 
-    🧑‍💻 Profesionales de ciberseguridad
-    🔴 Pentesters y equipos Red Team
-    🔵 Blue Team y equipos de evaluación defensiva
-    🕵️ Investigadores de seguridad
-    🌐 Auditores de aplicaciones web y APIs
-    🏆 Programas de bug bounty, respetando siempre su alcance
-    🎓 Estudiantes y personas que estén aprendiendo seguridad en laboratorios
-    🧪 Entornos CTF y plataformas de práctica autorizadas
-
-No pretende sustituir el criterio de un profesional: los resultados automáticos deben revisarse y validarse antes de considerarlos vulnerabilidades confirmadas.
-🧠 Filosofía de HT Forge
-🔎 Investigación
-
-Centralizar reconocimiento, descubrimiento y análisis.
-🛡️ Detección
-
-Identificar posibles vulnerabilidades y configuraciones inseguras.
-📋 Evidencia
-
-Dar prioridad a resultados reproducibles y diferenciarlos de simples indicios.
-🧩 Modularidad
-
-Permitir ampliar la plataforma mediante módulos y motores independientes.
-📊 Reporting
-
-Convertir los resultados técnicos en información útil para revisión y documentación.
-🚀 Funciones principales
-🔎 Reconocimiento
-
-Incluye capacidades para descubrir información útil sobre el objetivo autorizado:
-
-    Fingerprinting tecnológico
-    Descubrimiento de URLs
-    Análisis de parámetros
-    Identificación de superficies conocidas
-    Reconocimiento pasivo
-
-🕷️ Crawler
-
-El crawler permite construir una visión de la aplicación a partir de las rutas y recursos encontrados.
-
-Los resultados se incorporan al contexto del escaneo para que los módulos puedan trabajar sobre una superficie más amplia.
-🛡️ Análisis de vulnerabilidades
-
-HT Forge dispone de módulos orientados a distintas categorías de seguridad web y de aplicaciones.
-
-Entre las superficies contempladas por la plataforma se encuentran, según edición y configuración:
-
-    SQL Injection
-    Cross-Site Scripting (XSS)
-    IDOR/BOLA
-    LFI
-    Path Traversal
-    RCE / Command Injection
-    SSRF
-    XML/XXE
-    Open Redirect
-    CRLF
-    APIs
-    GraphQL
-    Control de acceso
-    Autenticación y sesiones
-    Exposición de información
-    Configuración y servicios
-    Cloud
-    Contenedores
-    Dependencias y componentes
-    CMS
-    Otras comprobaciones especializadas
-
-La disponibilidad y profundidad de los módulos depende de la edición.
-🎯 Hallazgos
-
-Los hallazgos se presentan de forma estructurada para facilitar la revisión.
-
-Cada resultado puede incluir:
-
-    Tipo de vulnerabilidad
-    URL afectada
-    Parámetro afectado
-    Severidad
-    Evidencia
-    Confianza
-    Módulo que generó el resultado
-    Información adicional para revisión humana
-
-HT Forge diferencia entre posibles hallazgos y resultados que disponen de evidencia suficiente para aumentar la confianza.
-🖥️ Dashboard
-
-La interfaz gráfica de HT Forge está diseñada para mantener la información importante visible durante el escaneo.
-
-Incluye:
-
-    Estado del escaneo
-    Información del objetivo
-    Resumen de hallazgos
-    Panel de módulos
-    Log de ejecución
-    ⏱️ Contador de tiempo en tiempo real
-    Controles de ejecución
-    🗂️ Historial
-    📊 Visualización de reportes
-    🌗 Modo Claro y Oscuro
-    🎨 Diseño Cyber Grid
-
-🔊 Sistema de voz
-
-HT Forge incorpora avisos de voz para determinados eventos del escaneo.
-
-Actualmente contempla:
-
-    👨 Voz masculina
-    👩 Voz femenina
-    🔄 Selección automática
-    🌐 Soporte para los idiomas disponibles
-
-La voz puede anunciar el comienzo y finalización del escaneo y determinados estados relevantes.
-📊 Reportes
-
-Al finalizar un escaneo, HT Forge puede generar información para diferentes formatos:
-
-    🌐 HTML
-    📄 PDF
-    🗃️ JSON
-    🎨 SVG
-
-🌌 Cyber Grid
-
-El estilo gráfico principal del reporte SVG de HT Forge es Cyber Grid.
-
-Está orientado a presentar los resultados de forma visual, incluyendo elementos como:
-
-    Risk Score
-    Severidades
-    Superficie analizada
-    Distribución de hallazgos
-    Top Findings
-    Información del escaneo
-    Evidencias y datos técnicos relevantes
-
-🗂️ Historial
-
-HT Forge mantiene un historial de los escaneos realizados para facilitar la consulta de ejecuciones anteriores.
-
-La interfaz permite gestionar el historial desde el propio Dashboard.
-🆓 Edición DEMO
-
-Edición destinada a probar la plataforma.
-
-Incluye la interfaz y flujo principal de HT Forge, pero con límites de cobertura para diferenciarla de las ediciones comerciales.
-Límites principales
-
-    4 comprobaciones SQLi
-    4 comprobaciones XSS
-    Selección limitada de módulos
-
-La edición DEMO incluye un aviso de actualización a Premium dentro de la interfaz.
-💼 Edición PRO
-
-Edición orientada a usuarios que necesitan una cobertura superior.
-Características principales
-
-    8 comprobaciones SQLi
-    8 comprobaciones XSS
-    Mayor número de módulos
-    Mayor cobertura de análisis
-    Funciones profesionales de reporting y revisión
-
-La interfaz mantiene la misma identidad visual que DEMO y PREMIUM.
-👑 Edición PREMIUM
-
-Edición completa de HT Forge.
-Características principales
-
-    Cobertura completa de los módulos disponibles
-    Mayor profundidad de análisis
-    Todas las capacidades de la plataforma incluidas
-    Reporting completo
-    Sin el aviso de «Sube a Premium»
-
-En la interfaz, la edición se identifica simplemente como:
-
-PREMIUM
-🧩 Arquitectura
-
-HT Forge utiliza una arquitectura modular basada en componentes independientes.
-
-Conceptualmente:
-
-HT Forge
-├── GUI
-├── Core
-├── Engines
-├── Plugins / Modules
-├── Reporting
-├── Runtime
-└── Configuration
-
-Esta separación permite evolucionar módulos concretos sin tener que sustituir todo el núcleo de la plataforma.
-🌍 Multiplataforma
-
-HT Forge está orientado a funcionar en entornos habituales de investigación de seguridad:
-
-    🐧 Linux
-    🐉 Kali Linux
-    🦜 Parrot OS
-    🪟 Windows
-
-La compatibilidad concreta puede depender de las dependencias y herramientas disponibles en cada sistema.
-🌐 Idiomas
-
-La interfaz está preparada para trabajar con varios idiomas:
-
-    🇪🇸 Español
-    🇬🇧 English
-    🇩🇪 Deutsch
-    🇷🇺 Русский
-
-⚠️ Uso responsable
-
-HT Forge es una herramienta de seguridad. El usuario es responsable de utilizarla dentro de los límites legales y de autorización correspondientes.
-
-Utilízala sobre:
-
-    Sistemas propios
-    Laboratorios
-    CTF
-    Entornos de desarrollo autorizados
-    Programas de bug bounty respetando estrictamente su alcance
-    Infraestructura para la que tengas autorización expresa
-
-No utilices la herramienta para acceder, alterar o probar sistemas de terceros sin autorización.
-📌 Estado del proyecto
-
-Versión actual: HT Forge 2.1.0 Para futuros Colaboradores:
-
-La numeración de versiones se mantiene de forma secuencial.
-
-Las futuras actualizaciones deberán conservar la base funcional y visual aprobada, incorporando las mejoras de forma controlada.
-
-Cada actualización debe mantenerse sincronizada entre:
-
-DEMO
-PRO
-PREMIUM
-
-🏴 Identidad del proyecto
-
-⚡ HT Forge CyberSecurity
-
-Research · Recon · Audit · Pentest · Analysis · Reporting
-🧠 Flujo de HT Forge
-
-🔎 Reconocimiento
-        ↓
-🕷️ Descubrimiento
-        ↓
-🎯 Análisis
-        ↓
-🛡️ Detección
-        ↓
-👤 Validación humana
-        ↓
-📋 Hallazgos
-        ↓
-📊 Reporting
-
-⚡ HT Forge 2.1.0
-🛡️ CyberSecurity Research & Assessment Platform 
-
-Actualizaciones:
----------------------------------------------------------------------------------------------------------------------------------- 
-
---(Actualizada 14/09/2026 16:55 PM)
-
-Las 10 mejoras:
-
-1 Matriz SSRF — respuesta del destino → CONFIRMED+, conexión demostrada → CONFIRMED, timeout/diferencial → LIKELY, solo acepta URL → CANDIDATE+info. El informe guarda ssrf_level y qué[...]
-
-2 LFI segunda sonda — tras /etc/passwd prueba otro fichero inocuo (second_file → +15 independiente).
-
-3 BOLA segundo contexto — auth_contexts en config: A→propio vs B→objeto de A (DENIED / 200+datos); sin él, verification_needed en vez de inventarlo.
-
-4 XSS 3 niveles — política: sin contexto ejecutable, máx LIKELY. Lo ejecutable sigue VERIFIED.
-
-5 Escalera SQLi — error-based + boolean-based sobre el mismo parámetro suben a CONFIRMED (metadata.ladder, única subida permitida).
-
-6 SSTI matemático — 77→49, 88→64, 9*9→81; triple → CONFIRMED 95.
-
-7 XXE renombrado — entidad interna → "Unsafe XML entity processing", máx VERIFIED; XXE confirmed solo con resolución externa.
-
-8 Guardia permisivos — RFI/SSI/marcadores jamás se autoconfirman (máx LIKELY, sin consecuencia → CANDIDATE).
-
-9 Evidencia ponderada — 30+25+20+15+10 con desglose por hallazgo; CONFIRMED≥70 (+repro o independiente), VERIFIED≥40, LIKELY≥35. Solo degrada.
-
-10 Pipeline 9.8 — ya existía; ahora con score, escalera y actionable antes de reportes.
-
---(Actualizada 15/09/2026 PM)
-
-El escaneo finalizó con el estado completed_with_errors debido al siguiente fallo interno de la herramienta:
-Error: backup_exposure: name 'PLUGIN_TYPE' is not defined
-Causa: Un fallo de código (excepción por variable no definida) dentro del módulo backup_exposure de HT Forge.
-Impacto: Este error impidió que la herramienta analizara la presencia de copias de seguridad expuestas de manera automatizada.
-
-Debido a qué: add() en plugins/_extended_common.py usaba la variable global PLUGIN_TYPE, que no existe en ese módulo.
-
-Por qué: cada detector hace from _extended_common import * y define su propio PLUGIN_TYPE='backup_exposure', pero la función importada sigue mirando los globals de _extended_common, no los del detector. Al dispararse un hallazgo real (un /backup.zip con 200), add() estallaba con NameError y el motor marcaba completed_with_errors.
-
-Alcance: no era solo backup_exposure — eran los 68 detectores que usan ese helper. Solo se veía cuando alguno encontraba algo; el resto volvía vacío y parecía sano.
-
-Arreglo: add() resuelve el tipo subiendo la pila hasta el detector que llamó (verificado: emite type='backup_exposure'), con fallback unknown. Sin tocar los 68 módulos. 22/22 tests en verde y reproducción en vivo sin errores.
-
---(Actualizada 17/09/2026 11:05 PM)
-
-Modulo DEMO se cortaba antes de tiempo de uso 
-
---(Actualizada 19/09/2026 1:30 AM)
-
-Panel Brute Force
-Dentro de Forge tendría su propia pestaña:
-Target / Host
-Puerto
-Servicio
-Usuario
-Lista de usuarios
-Wordlist
-Threads
-Timeout
-Start / Stop
-Progreso
-Intentos realizados
-Velocidad
-Éxitos
-Fallos
-Estado de la auditoría
-Exportación de resultados
-
------------------------------------------------------------------------------------------------------------------------------------
-
-La finalidad es proporcionar una herramienta organizada, modular y profesional para aprender, investigar, auditar y documentar seguridad.
-
-🚀 Si te mola la ciberseguridad y quieres subir de nivel rodeado de gente que está en lo mismo que tú… este es tu sitio.
-
-Alegrame con buen <img width="204" height="192" alt="Untitled" src="https://github.com/user-attachments/assets/8dfb73d1-ae04-4a05-bf12-4fdd7e1fe01d" />
-
-https://www.paypal.com/paypalme/jsecopalacios
-
-🌐 Página Web:
-https://www.hackingteamoficcial.uk/
-
-💻 GitHub:
-https://github.com/HackingTeamOficial
-
-📲 Telegram:
-
-CANAL ESPECIAL DEL ESCANER: https://t.me/+E4RgutS1p35mZWI8
-
-https://t.me/PlantillasNucleiHackingTeam
-
-https://t.me/HackingTeamGrupoOfficial
-
-https://t.me/+0hHSaKO7eI9mNWY8 (Difusión)
-
-https://t.me/+llcmNGzz6JIyMmI0 (Biblioteca)
-
-https://t.me/TermuxHackingTeam
-
-🐦 X (Twitter):
-@HackingTeam77
-
-🦋 Bluesky:
-https://bsky.app/profile/hackingteam.bsky.social
-
-💬 Discord:
-https://discord.gg/V4nPFbQX
-
-📘 Facebook:
-https://www.facebook.com/groups/hackingteam2022/?ref=share
-https://www.facebook.com/groups/HackingTeamCyber/?ref=share
-
-🎥 YouTube:
-https://www.youtube.com/@HackingTeamOficial/videos
-
-🎵 TikTok:
-https://www.tiktok.com/@hackingteamprohackers
-https://www.tiktok.com/@hacking.kdea?_t=ZS-8vTtlaQrDTL&_r=1
+El VulnLab actual mide los adaptadores del benchmark, no todos los plugins reales. No debe interpretarse como una tasa global de precisión/recall del producto.

@@ -1,0 +1,48 @@
+# HT Forge - Requirements
+# Core
+requests>=2.31.0
+paramiko>=3.4.0
+urllib3>=2.0.0
+pyyaml>=6.0
+tqdm>=4.65.0
+colorama>=0.4.6
+python-dateutil>=2.8.2
+
+# Database
+sqlite3  # built-in
+# psycopg2-binary>=2.9.7  # opcional PostgreSQL
+
+# HTTP/Scanning
+httpx>=0.25.0
+aiohttp>=3.8.5
+aiodns>=3.0.0
+lxml>=4.9.0
+beautifulsoup4>=4.12.0
+
+# Crypto/Security
+cryptography>=41.0.0
+pyjwt>=2.8.0
+bcrypt>=4.0.1
+
+# Reporting
+weasyprint>=60.0
+jinja2>=3.1.0
+markdown>=3.4.0
+fpdf2>=2.7.0
+
+# GUI/Web
+flask>=2.3.1
+flask-socketio>=5.3.0
+flask-cors>=4.0.0
+
+# i18n
+babel>=2.12.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Optional/Advanced
+# playwright>=1.40.0
+# mitmproxy>=10.0.0
