@@ -4,6 +4,28 @@
 
 ## HT Forge CiberSecurity
 
+## Novedades 2.3.2
+
+### 🕸 Grafo de Superficie de Ataque interactivo
+Nueva vista **«Grafo de Ataque»** con las mismas capacidades del grafo de HunterBug:
+- Visualización **dirigida por fuerzas** (Fruchterman-Reingold) de la superficie de ataque.
+- Tipos de nodo: objetivo, dominio, subdominio, IP, puerto, servicio, tecnología, endpoint, parámetro, CVE y hallazgo.
+- Colores por tipo y severidad (crítico, alto, medio, bajo, info).
+- **Zoom** con rueda del ratón y **arrastre/pan**.
+- **Selección de nodo** con clic: tipo, etiqueta, severidad, estado, módulo, conexiones y detalle.
+- Botón **Reorganizar** para recalcular el layout en el navegador.
+- **Analizar nodo con IA** y **Analizar grafo con IA**: envían el nodo o el resumen de superficie al analista local (read-only).
+- Generación por sesión (selector de sesiones o sesión actual).
+Detalles técnicos en `docs/RELEASE_NOTES_2.3.2.md`.
+### DEMO sin caducidad bloqueante
+- La edición **DEMO queda siempre operativa**: si la ventana de evaluación expira, se renueva automáticamente al iniciar, sin mostrar el aviso de «La DEMO de 24 horas ha expirado».
+- **Acceso completo** en DEMO: HT Brute Force ya no exige PREMIUM; basta una licencia válida.
+- Las licencias PRO/PREMIUM mantienen su caducidad real.
+### Mejoras heredadas de la correlación
+- Correlación contextual de hallazgos por endpoint, parámetro y tecnología.
+- Interfaz que muestra relaciones y explica que no prueban causalidad.
+- Mejoras de privacidad del grafo y nuevas pruebas de regresión
+
 **DEMO · PRO · PREMIUM en un único paquete**
 
 HT Forge es una plataforma modular para investigación de seguridad, auditoría, bug bounty autorizado, laboratorios, CTF y pentesting con permiso. Esta edición unificada mantiene un único código y una única instalación; la edición activa se determina mediante el sistema de licencia existente.
