@@ -7,7 +7,7 @@
 ## Novedades 2.3.2
 
 ### 🕸 Grafo de Superficie de Ataque interactivo
-Nueva vista **«Grafo de Ataque»** con las mismas capacidades del grafo de HunterBug:
+Nueva vista **«Grafo de Ataque»** 
 - Visualización **dirigida por fuerzas** (Fruchterman-Reingold) de la superficie de ataque.
 - Tipos de nodo: objetivo, dominio, subdominio, IP, puerto, servicio, tecnología, endpoint, parámetro, CVE y hallazgo.
 - Colores por tipo y severidad (crítico, alto, medio, bajo, info).
