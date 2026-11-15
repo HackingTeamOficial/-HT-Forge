@@ -144,7 +144,6 @@ La limpieza de distribución elimina datos generados durante desarrollo, incluye
 
 No se alteran esos mecanismos durante esta limpieza.
 
----
 
 ## Reportes
 
