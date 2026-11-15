@@ -1,5 +1,5 @@
 <img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/31b3fd97-ad42-44d3-8abf-8f0f69011b18" />
-# HT Forge 2.3.1
+# HT Forge 2.3.2
 
 ## HT Forge CiberSecurity
 
@@ -10,6 +10,13 @@ HT Forge es una plataforma modular para investigación de seguridad, auditoría,
 > **Uso autorizado únicamente.** Solo analiza sistemas sobre los que tengas permiso.
 
 ---
+
+## Novedades 2.3.2
+
+- Correlación contextual de hallazgos por endpoint, parámetro y tecnología.
+- Interfaz que muestra relaciones y explica que no prueban causalidad.
+- Mejoras de privacidad del grafo y nuevas pruebas de regresión.
+- Consulta `docs/RELEASE_NOTES_2.3.2.md` para el detalle.
 
 ## Qué incluye
 
@@ -163,7 +170,7 @@ HT Forge debe ejecutarse con los mínimos privilegios necesarios. La GUI está d
 - Fixed `Context.get_report()` and normalized every finding before emission.
 - Automated QA includes the packaged AI regression suite; the release must be validated with the tests actually shipped in this package.
 
-## HT Forge 2.3.1 — Quality Foundation
+## HT Forge 2.3.2 — Quality Foundation
 
 This release adds the **Detector Quality Lab** under **HT Forge AI** and exposes the local-only endpoint `GET /api/quality-lab`. It checks synthetic evidence-policy cases, evidence normalization/scoring consistency, and plugin import health without sending traffic to targets. The AI analyst can also prepare advisory validation plans for selected findings; plans do not execute shell commands or send network requests. It also fixes a confirmation-policy exception when a low-evidence finding is downgraded.
 
@@ -177,7 +184,7 @@ python -m unittest ai_core.test_ai_core_220 -v
 These checks do not replace a real detection benchmark. For measurable false-positive/false-negative rates, run the detectors against a controlled corpus containing both vulnerable and non-vulnerable fixtures.
 
 
-## VulnLab Benchmark y Evidence Graph (misma versión 2.3.1)
+## VulnLab Benchmark y Evidence Graph
 
 - **HT Forge AI → VulnLab** ejecuta un benchmark local de 20 casos sintéticos, en loopback y puerto temporal, con TP/FP/FN/TN por adaptador de prueba.
 - **Evidence Graph** correlaciona hallazgos, endpoints, tecnologías y campos de evidencia sin incluir query strings ni valores sensibles.
