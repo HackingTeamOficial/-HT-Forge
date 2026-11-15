@@ -1,4 +1,5 @@
 <img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/31b3fd97-ad42-44d3-8abf-8f0f69011b18" />
+
 # HT Forge 2.3.2
 
 ## HT Forge CiberSecurity
@@ -144,6 +145,7 @@ La limpieza de distribución elimina datos generados durante desarrollo, incluye
 
 No se alteran esos mecanismos durante esta limpieza.
 
+---
 
 ## Reportes
 
