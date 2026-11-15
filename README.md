@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/31b3fd97-ad42-44d3-8abf-8f0f69011b18" />
 # HT Forge 2.3.1
 
 ## HT Forge CiberSecurity
