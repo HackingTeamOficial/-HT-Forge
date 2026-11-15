@@ -4,7 +4,7 @@
 
 ## HT Forge CiberSecurity
 
-## Novedades 2.3.2
+## Novedades 2.3.2 y como lanzarla en windows https://git-scm.com/install/windows
 
 ### 🕸 Grafo de Superficie de Ataque interactivo
 Nueva vista **«Grafo de Ataque»** 
