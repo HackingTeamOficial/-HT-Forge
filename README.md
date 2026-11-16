@@ -232,3 +232,38 @@ python -m unittest ai_core.test_ai_core_220 -v
 ```
 
 El VulnLab actual mide los adaptadores del benchmark, no todos los plugins reales. No debe interpretarse como una tasa global de precisión/recall del producto.
+
+🚀 Si te mola la ciberseguridad y quieres subir de nivel rodeado de gente que está en lo mismo que tú… este es tu sitio.
+
+🌐 Página Web:
+https://www.hackingteamoficcial.uk/
+
+💻 GitHub:
+https://github.com/HackingTeamOficial
+
+📲 Telegram:
+https://t.me/PlantillasNucleiHackingTeam
+https://t.me/HackingTeamGrupoOfficial
+https://t.me/+0hHSaKO7eI9mNWY8 (Difusión)
+https://t.me/+llcmNGzz6JIyMmI0 (Biblioteca)
+https://t.me/TermuxHackingTeam
+
+🐦 X (Twitter):
+@HackingTeam77
+
+🦋 Bluesky:
+https://bsky.app/profile/hackingteam.bsky.social
+
+💬 Discord:
+https://discord.gg/V4nPFbQX
+
+📘 Facebook:
+https://www.facebook.com/groups/hackingteam2022/?ref=share
+https://www.facebook.com/groups/HackingTeamCyber/?ref=share
+
+🎥 YouTube:
+https://www.youtube.com/@HackingTeamOficial/videos
+
+🎵 TikTok:
+https://www.tiktok.com/@hackingteamprohackers
+https://www.tiktok.com/@hacking.kdea?_t=ZS-8vTtlaQrDTL&_r=1
